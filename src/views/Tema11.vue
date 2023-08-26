@@ -13,7 +13,7 @@
       .col-lg-7.my-3
         p(data-aos="fade-down") En la industria textil uno de los principales vínculos con la información que se genera, tiene que ver con el control estadístico de producción y calidad; desde estos sistemas de gestión, se definen una serie de herramientas estadísticas, con el objetivo de mitigar la variabilidad en las características de calidad y logística de producción, clave para el producto, es decir aplicada en la fabricación, en el aseguramiento de la calidad, y en el mejoramiento de métodos.
 
-        p(data-aos="fade-down") La estadística la podemos definir como #[fw-normal.bg16 “la ciencia que trata de la recopilación, organización, presentación, análisis e interpretación de datos numéricos con el fin de realizar una toma de decisión más efectiva.” Ruiz, D 2014.]
+        p(data-aos="fade-down") La estadística la podemos definir como #[fw-normal.bg16 “la ciencia que trata de la recopilación, organización, presentación, análisis e interpretación de datos numéricos con el fin de realizar una toma de decisión más efectiva.” Ruiz, D (2014).]
         p(data-aos="fade-down") Para realizar un mejor acercamiento del tema, realizaremos un recorrido por algunos términos básicos claves para su apropiación conceptual de la estadística:
 
     .row.justify-content-center.align-items-center.mb-5      
@@ -21,7 +21,7 @@
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img.img-a.img-t(src='@/assets/curso/temas/160.svg', alt='Ciclo PHVA')
+              img.img-a.img-t(src='@/assets/curso/temas/160.svg', alt='')
 
           .tarjeta.color-primario.p-3(x="17%" y="90%" numero="+")
             .h5 Población  
@@ -54,7 +54,7 @@
           .tarjeta.color-primario.p-3(x="50%" y="73%" numero="+")
             .h5 Individuos 
             p.mb-0 Cada elemento objeto que conforma la población.   
-          .tarjeta.color-primario.p-3(x="50%" y="100%" numero="+")
+          .tarjeta.color-primario.p-3(x="50%" y="103%" numero="+")
             .h5 Variables 
             p Característica que fluctúan y varían generando diferentes valores, los cuales son observables y medibles. Los datos son el valor particular de la variable. Las variables pueden ser: 
             p #[b Cualitativas:] se expresan en palabras y no se pueden medir directamente, pero se llevan a valores numéricos utilizando escalas como herramienta. 

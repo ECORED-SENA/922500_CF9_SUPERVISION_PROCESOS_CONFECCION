@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Teoría de restricciones y mejoramiento de métodos',
     descripcionCurso:
-      'Este componente se enfoca en la identificación de puntos críticos del proceso productivo en la industria de la moda, utilizando la metodología de la teoría de restricciones y herramientas tecnológicas para realizar un estudio de trabajo asertivo. Se destaca la necesidad de mejorar la ejecución y el registro de todas las actividades en la producción de prendas de vestir, aprovechando los avances tecnológicos.',
+      'Este componente se enfoca en la identificación de puntos críticos del proceso productivo en la industria de la moda, utilizando la metodología de la teoría de restricciones y herramientas tecnológicas para llevar a cabo un estudio de trabajo asertivo. Se destaca la necesidad de mejorar la ejecución y el registro de todas las actividades en la producción de prendas de vestir, aprovechando los avances tecnológicos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -91,6 +91,13 @@ export default {
         numero: '6',
         titulo: 'Propuesta de mejoramiento',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '6.1',
+            titulo: 'Estudio de métodos',
+            hash: 't_6_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema7',
@@ -230,21 +237,21 @@ export default {
     },
     {
       tema: 'Video YouTube',
-      referencia: 'Hardware para visualizar y controlar',
+      referencia: '<i>Hardware</i> para visualizar y controlar',
       tipo:
         'GRUPO GARATU. (2019). Sistema M.E.S. (Manufacturing Execution System) Caso de éxito en laminación.  [Video] YouTube',
       link: 'https://youtu.be/UjbIm_aD4dQ',
     },
     {
       tema: 'Video YouTube',
-      referencia: 'Hardware para visualizar y controlar',
+      referencia: '<i>Hardware</i> para visualizar y controlar',
       tipo:
         'QFB Farma. (2019). <i>Indicadores de Producción</i>. [Video] YouTube',
       link: 'https://www.youtube.com/watch?v=B-aye88Fkvc',
     },
     {
       tema: 'Video YouTube',
-      referencia: 'Hardware para visualizar y controlar',
+      referencia: '<i>Hardware</i> para visualizar y controlar',
       tipo:
         'Lojan, E. (2019). <i>SISTEMA ANDON (ANDON SYSTEM)</i>.  [Video] YouTube',
       link: 'https://www.youtube.com/watch?v=HXqQv3gHaA4',
@@ -336,7 +343,7 @@ export default {
     {
       termino: 'Patronaje',
       significado:
-        'sistema metódico enfocado en la creación de moldes para prendas de vestir sobre papel o en software en 2d.',
+        'sistema metódico enfocado en la creación de moldes para prendas de vestir sobre papel o en <i>software</i> en 2d.',
     },
     {
       termino: 'Patronista',
@@ -361,12 +368,12 @@ export default {
     {
       termino: 'Tecnología dura',
       significado:
-        'conocimiento llevado a productos tangibles, y que está en cambio +++constante.',
+        'conocimiento llevado a productos tangibles, y que está en cambio constante.',
     },
     {
       termino: 'Tridimensional',
       significado:
-        'qué posee tres dimensiones, cuenta con anchura, altura y profundidad.',
+        'que posee tres dimensiones, cuenta con anchura, altura y profundidad.',
     },
   ],
   referencias: [
@@ -457,7 +464,7 @@ export default {
       referencia:
         'Gutiérrez Rengifo, L., Moncayo Velazco, A., Tanaka, K., Kimura, F. y Moreno Brand, D. (2011).<i> Manual de patronaje básico e interpretación de diseños</i>. SENA, Agencia de Cooperación Internacional de Japón "jica"',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000025496',
+        'https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=AC68AC0379BA94C6453554265BD5D717?sequence=1',
     },
     {
       referencia:
@@ -563,53 +570,52 @@ export default {
           nombre: 'María Camila Álvarez',
           cargo: 'Contratista Diseño Curricular',
           centro:
-            'Regional Antioquia Centro de Formación en Diseño, Confección y Moda',
+            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda',
         },
         {
           nombre: 'Liliana María Ceballos Gutiérrez',
           cargo:
             'Contratista Asesora Metodóloga diseño y desarrollo curricular',
           centro:
-            'Regional Antioquia Centro de Formación en Diseño, Confección y Moda Complejo Sur Itagüí',
+            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda Complejo Sur Itagüí',
         },
         {
           nombre: 'Pedro Luis Sossa Ramírez',
           cargo: 'Contratista Diseño y desarrollo curricular',
           centro:
-            'Regional Antioquia Centro de Formación en Diseño, Confección y Moda Complejo Sur Itagüí',
+            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda Complejo Sur Itagüí',
         },
         {
           nombre: 'Víctor Manuel Isaza Córdoba',
           cargo: 'Contratista Diseño y desarrollo curricular',
           centro:
-            'Regional Antioquia Centro de Formación en Diseño, Confección y Moda Complejo Sur Itagüí',
+            'Regional Antioquia - Centro de Formación en Diseño, Confección y Moda Complejo Sur Itagüí',
         },
         {
           nombre: 'Vilma Lucía Perilla Méndez',
           cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Gestión Industrial. Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industrial. ',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Revisora Metodológica y Pedagógica',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica.',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Diseñador y evaluador instruccional',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica. Regional Distrito Capital.',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica.',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
           cargo: 'Revisión y corrección de estilo',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica.',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
-          cargo: 'Diseñador instruccional',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -620,7 +626,7 @@ export default {
       autores: [
         {
           nombre: 'Blanca Flor Tinoco',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñadora web',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -631,8 +637,32 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Storyboard e Ilustración',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Carmen Alicia Martinez Torres',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Mary Jeans Palacio',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Emilsen Alfonso Bautista',
+          cargo: 'Actividad Didáctica',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

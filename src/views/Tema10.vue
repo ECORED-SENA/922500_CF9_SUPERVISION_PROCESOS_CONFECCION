@@ -9,8 +9,9 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.my-3
+        p(data-aos="fade-down") Elaborar prendas de vestir o realizar actividades del sistema moda, requiere de una serie de recursos que son sometidos a diversas actividades, cada uno con un costo asociado de acuerdo con las cantidades utilizadas. La manera o metodología con que realizamos las actividades y con que utilizamos estos recursos, definen un mayor o menor costo, se podría decir entonces, que un método de trabajo bien diseñado lograría que el costo de un producto o un servicio sea competitivo.      
         p(data-aos="fade-down") De igual forma, el método o manera como se seleccionan los proveedores de materias primas e insumos, el método como los utilizamos, la metodología con la que registramos esos consumos y las cantidades óptimas que utilizamos, demuestra una relación estrecha entre método y costo.
-        p(data-aos="fade-down") De igual forma, el método o manera como se seleccionan los proveedores de materias primas e insumos, el método como los utilizamos, la metodología con la que registramos esos consumos y las cantidades óptimas que utilizamos, demuestra una relación estrecha entre método y costo.      
+    
         .bg16.p-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 La manipulación de elementos necesarios para obtener prendas de vestir o servicios que tengan que ver con la industria de la moda, genera un costo de #[b.t1 Mano de Obra Directa] que está ligado al valor y al consumo de minutos; el método o la manera como se manipulan los elementos, se intervienen y transforman, la manera como se registran estos movimientos hace que se puedan reducir los tiempos de fabricación y de esa manera ser racional en los costos. 
       .col-lg-5.my-3
@@ -54,13 +55,13 @@
 
           h5(data-aos="fade-down") Ejemplo:
 
-          p(data-aos="fade-down") El costo de todos los recursos y actividades para producir un jean es $25.000 y la utilidad deseada es del 30%, ¿cuál es el precio de venta? Reemplazamos los valores en la fórmula:
+          p(data-aos="fade-down") El costo de todos los recursos y actividades para producir un #[i jean] es $25.000 y la utilidad deseada es del 30%, ¿cuál es el precio de venta? Reemplazamos los valores en la fórmula:
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/142.svg', alt='')       
           p(data-aos="fade-down").my-4.text-center Resolvemos el denominador
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/141.svg', alt='')       
           p(data-aos="fade-down").my-4.text-center Realizamos la división 
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/140.svg', alt='')       
-          p(data-aos="fade-down").text-center.mt-4 Así hallamos que el precio de venta es del jean es de $ 35,714
+          p(data-aos="fade-down").text-center.mt-4 Así hallamos que el precio de venta es del #[i jean] es de $ 35,714
 
 
     .row.justify-content-start.mb-4.pt-4    
@@ -78,8 +79,8 @@
         p(data-aos="fade-down") Se refiere al proceso cuando la facturación o producción de una empresa, área, o departamento, no produce pérdidas, ni tampoco ganancias. Se refiere también al número mínimo de unidades que se deben producir o vender para que la utilidad sea cero, o cuando los gastos o costos totales son iguales a los ingresos totales.
         .bg6.p-4(data-aos="flip-down")
           .row.justify-content-center.align-items-center           
-            .col.mb-0(data-aos="fade-down") Para hallar el punto de equilibrio (PE) se elabora una lista de los gastos de un determinado período, se suman y se dividen entre el porcentaje de utilidad que se ha asignado.
-            .col-auto
+            .col.mb-0.order-1.my-2(data-aos="fade-down") Para hallar el punto de equilibrio (PE) se elabora una lista de los gastos de un determinado período, se suman y se dividen entre el porcentaje de utilidad que se ha asignado.
+            .col-lg-auto.order-lg-2.my-2
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/144.svg', alt='')    
 
     .row.justify-content-center.align-items-center       

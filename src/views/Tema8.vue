@@ -16,8 +16,8 @@
         .col-lg-12(data-aos="fade-left")     
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-          figcaption Titulo            
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/jwwLmoiAJag?si=Getx6z0yrgxkFJaL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video. Formulación de proyectos             
 
       h4(data-aos="fade-down").t1.mb-3 Ciclo PHVA
       p(data-aos="fade-down").mb-5 Dentro de la formulación del proyecto, el Ciclo PHVA (Planear, Hacer, Verificar, Actuar) establece cuatro actividades definidas para desarrollarlo a cabalidad, estas según Méndez (2020), son:
@@ -54,51 +54,52 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 9.
+          h5 Tabla 6.
           span Actores que intervienen en un proyecto
-        table
-          thead.bgh.text-center
-            tr
-              th Identificación
-              th Formulación
-              th Implementación
-              th Funcionamiento
-          tbody.bgtr
-            tr
-              td Clientes.
-              td Profesionales.
-              td Constructores.
-              td Personal directivo, ejecutivo y operativo.
-            tr
-              td Usuarios.
-              td Técnicos.
-              td Proveedores de tecnología.
-              td Clientes, usuarios, consumidores, beneficiarios.
-            tr
-              td Consumidores.
-              td Tecnólogos.
-              td Entidades de financiamiento.
-              td Proveedores de materias primas e insumos.
-            tr
-              td Emprendedores.
-              td Consultores.
-              td Socios gestores.
-              td Estado.
-            tr
-              td Beneficiarios.
-              td Evaluadores. Técnicos.
-              td Interventores.
-              td Entidades de control.
-            tr
-              td Gestores.
-              td Asesores.
-              td Entidades reguladoras.
-              td  
-            tr
-              td  
-              td Gestores.
-              td Entidades de apoyo.
-              td 
+        .tabla-a.color-acento-contenido          
+          table.table1
+            thead.bgh.text-center
+              tr
+                th Identificación
+                th Formulación
+                th Implementación
+                th Funcionamiento
+            tbody.bgtr
+              tr
+                td Clientes.
+                td Profesionales.
+                td Constructores.
+                td Personal directivo, ejecutivo y operativo.
+              tr
+                td Usuarios.
+                td Técnicos.
+                td Proveedores de tecnología.
+                td Clientes, usuarios, consumidores, beneficiarios.
+              tr
+                td Consumidores.
+                td Tecnólogos.
+                td Entidades de financiamiento.
+                td Proveedores de materias primas e insumos.
+              tr
+                td Emprendedores.
+                td Consultores.
+                td Socios gestores.
+                td Estado.
+              tr
+                td Beneficiarios.
+                td Evaluadores. Técnicos.
+                td Interventores.
+                td Entidades de control.
+              tr
+                td Gestores.
+                td Asesores.
+                td Entidades reguladoras.
+                td  
+              tr
+                td  
+                td Gestores.
+                td Entidades de apoyo.
+                td 
         figcaption.mt-3 Nota. Tomado de Méndez, R. et al. (2020).
 
 
@@ -110,13 +111,13 @@
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            p(data-aos="fade-down").text-regular Se define como un proceso para obtener calidad y excelencia de manera gradual, es decir, paso a paso, con el fin de lograr resultados eficientes y eficaces, donde se podría afirmar que el punto máximo de éste se define en el momento en que se genera una conexión entre los procesos y el talento humano, al trabajar juntos por un mismo objetivo, esperando una optimización de recursos que permitan llegar a la meta planteada.
+            p(data-aos="fade-down").text-regular El proyecto escrito servirá como un instrumento de negociación determinado por su contenido, por ello se hace necesario agregar tablas e ilustraciones que soporten la información contenida, además de la referenciación de las fuentes tomadas. Igualmente, es importante contar con habilidades comunicativas y lingüísticas para dar a conocer de manera asertiva lo que se espera con la ejecución de dicho proyecto.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
-            .h5.mb-0 - Proaño et al (2017).         
+            .h5.mb-0 -Según Méndez et al (2020).   
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/130.png', alt='')  
-
+    p(data-aos="fade-down").mb-5 Dentro de la estructura básica que debe poseer un proyecto, se encuentran los siguientes elementos:
     .row.justify-content-center.align-items-end      
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/59.png', alt='')
@@ -138,11 +139,7 @@
             .row.justify-content-center.mt-3
               .col-11
                 h4 Características generales 
-                p En este apartado se dan a conocer todas las características sociales, económicos y culturales del lugar donde se va a desarrollar el proyecto y que intervienen directamente en él. 
-            .row.justify-content-center.mt-3
-              .col-11
-                h4 Características generales 
-                p En este apartado se dan a conocer todas las características sociales, económicos y culturales del lugar donde se va a desarrollar el proyecto y que intervienen directamente en él. 
+                p En este apartado se dan a conocer todas las características sociales, económicas y culturales del lugar donde se va a desarrollar el proyecto y que intervienen directamente en él. 
             .row.justify-content-center.mt-3
               .col-11
                 h4 Políticas y normas gubernamentales 

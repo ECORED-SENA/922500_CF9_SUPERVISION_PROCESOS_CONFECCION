@@ -25,13 +25,17 @@
           p(data-aos="fade-down").mb-0 Para esto se hace referencia a la Ley de Pareto, donde usualmente un porcentaje menor de factores es el que genera una gran cantidad de costes y estos frecuentemente suelen ser la distancia, el esfuerzo, la dificultad o la combinación de recursos. A partir de esta información, es como se utilizan las distintas técnicas de recolección de información para definir si la mejora estará enfocada a la eliminación de algunos elementos que no son necesarios en el trabajo, la combinación de algunas operaciones, la reorganización de la serie de actividades o la simplificación en la forma de realizar el trabajo.
 
         p(data-aos="fade-down") Teniendo en cuenta lo anterior, así es como se procede en todo el proceso que implica el estudio de métodos para identificar el escenario actual, las necesidades que se evidencian y los cambios que se esperan para lograr los objetivos propuestos por la empresa.
-        
+        .row.justify-content-center.align-items-end.bg13          
+          .col-auto.pb-0
+            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')
+          .col
+            p.mb-0.p-4 Para ampliar la información acerca de la Ley de Pareto, lo invitamos a ver el video “#[b Qué es la ley de Pareto 80-20]”, el cual se encuentra en el material complementario.        
     Separador 
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 6.1 Estudio de métodos                 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.my-3
-        p(data-aos="fade-down") Para conocer de cerca los estudios de métodos, primero se debe entender que un método se define como el desarrollo de diversas actividades para llevar a cabo una operación o tarea determinada. Partiendo de esa definición, al profundizar en el estudio de métodos, OIT (1996) lo describe como #[fw-normal.bg16 “el registro y examen crítico sistemático de los modos de realizar actividades, con el fin de efectuar mejoras.” (p.77).]
+        p(data-aos="fade-down") Para conocer de cerca los estudios de métodos, primero se debe entender que un método se define como el desarrollo de diversas actividades para llevar a cabo una operación o tarea determinada. Partiendo de esa definición, al profundizar en el estudio de métodos, Organización Internacional del Trabajo (OIT, 1996) lo describe como #[fw-normal.bg16 “el registro y examen crítico sistemático de los modos de realizar actividades, con el fin de efectuar mejoras.” (p.77).]
 
         p(data-aos="fade-down") Esto se podría entender como la observación objetiva de los modos de desarrollar un proceso, con el fin de buscar mejores alternativas para realizarlo, optimizando recursos valiosos para la empresa, lo cual permite disminuir costos y complicaciones, al reducir la cantidad del trabajo que se necesita para lograr el resultado esperado, descartando movimientos innecesarios.
 
@@ -54,7 +58,7 @@
     .bg17.mb-5 
       .row.justify-content-center.align-items-center.py-4       
         .col-lg-5.my-3
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/71.svg', alt='')
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/71.svg', alt='La figura ilustra los pasos a seguir en el estudio de métodos, que abarcan desde la selección del trabajo a analizar hasta el control del nuevo método de trabajo. Estos pasos incluyen la selección del trabajo a estudiar, el registro de los hechos observados, un análisis crítico del trabajo, la determinación del método más práctico, la evaluación del método actual, la definición del nuevo método de trabajo, el registro de este último, la implementación del nuevo método y finalmente, el control continuo del método implementado.')
         .col-lg-5.my-3
           p(data-aos="fade-down").mb-0 Es de destacar que en el contexto real puede que muchas veces las distintas condiciones identifiquen que el nuevo método no es el más adecuado para implantar, puesto que los contextos dependen de diversos factores propios de los escenarios de estudio. O en el caso del mundo de la moda, un método funcionará mejor para algunos proyectos que para otros. Por ejemplo, hay formas o métodos de trabajo para algunos tejidos o tipos de prenda, que no funcionan para otro.
     h4.t1(data-aos="fade-down").mb-4 Selección del trabajo para estudio
@@ -96,7 +100,7 @@
           p(data-aos="fade-down") A través de una postura de observación directa se identifican los hechos relevantes relacionados con el trabajo que se ha definido anteriormente, el registro se convierte en un componente muy importante para desarrollar todo el proceso de estudio. Para ello, las personas que trabajan en esa área proceden a recolectar los datos apropiados de las fuentes de información principales.
           p(data-aos="fade-down") Este registro se puede realizar en dos momentos, el primero, con un gráfico sencillo para establecer si los datos obtenidos tienen utilidad y pertinencia para el estudio, y el segundo, será un gráfico más detallado para socializar la información a modo de informe. Para la recolección de datos existen diversas técnicas e instrumentos, desde la escritura en lápiz y papel, videos, estudios, hasta elementos estandarizados, pero los más utilizados son los diagramas o gráficos, que pueden presentarse de las siguientes maneras:   
           h5(data-aos="fade-down") Gráficos que señalan un orden de acontecimientos de acuerdo con el tiempo en que suceden
-          p(data-aos="fade-down") El cursograma es una representación gráfica de los procesos que se están realizando o se van a realizar, específica y nombra las actividades u operaciones por medio de proceso, el cual de manera sistemática y secuencial permite hacer un mejor análisis del recorrido del proceso y así poder identificar aciertos y no conformidades. Se aprovecha como una herramienta para hacer seguimiento a procesos, productos, máquinas y personas. Estos pueden ser:                 
+          p(data-aos="fade-down") El cursograma es una representación gráfica de los procesos que se están realizando o se van a realizar, específica y nombra las actividades u operaciones por medio de símbolos. También se le conoce como gráfico de proceso, el cual de manera sistemática y secuencial permite hacer un mejor análisis del recorrido del proceso y así poder identificar aciertos y no conformidades. Se aprovecha como una herramienta para hacer seguimiento a procesos, productos, máquinas y personas. Estos pueden ser:                
         .col-lg-4      
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/77.png', alt='') 
 
@@ -140,15 +144,15 @@
                   h4.t1 Cursograma administrativo    
                   p.mb-0 En este caso se refiere a procesos administrativos, se registran actividades de manejo y consecución de recursos, y procesos de direccionamiento.
 
-    p(data-aos="fade-down").mb-5.text-center A continuación, se observa un ejemplo del cursograma sinóptico del proceso para realizar una camisilla interior.        
+    p(data-aos="fade-down").mb-5 A continuación, se observa un ejemplo del cursograma sinóptico del proceso para realizar una camisilla interior.        
 
     .row.justify-content-center.align-items-center.mb-5         
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-auto(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
             h5 Figura 8.
             span Cursograma sinóptico. Proceso: camisilla interior 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/85.svg', alt='')     
-
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/85.svg', alt='La figura representa el cursograma sinóptico de las etapas clave en el proceso de fabricación de una camiseta interior, abarcando desde la selección de materiales hasta el empaque final. Cada etapa está representada por un bloque y las flechas señalan la secuencia de las actividades.')     
+        figcaption.mt-3 Nota. Tomada de Ararat, A. (2010)
     p(data-aos="fade-down").mb-5.text-center En la siguiente imagen se observa un ejemplo del Cursograma analítico del material utilizado en la confección de un vestido.
 
     .row.justify-content-center.align-items-center.mb-5         
@@ -156,7 +160,7 @@
         .titulo-sexto.color-acento-contenido
             h5 Figura 9.
             span Cursograma sinóptico. Proceso: camisilla interior
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/86.svg', alt='') 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/86.svg', alt='La figura ilustra un cursograma analítico que detalla el proceso de fabricación de un vestido, abarcando desde el almacenamiento en el almacén hasta el almacenamiento en la bodega. Cada acción y paso se describe junto con la cantidad, la duración estimada y el tiempo que tomará la construcción. Se incluye la actividad que se llevará a cabo, así como observaciones adicionales pertinentes.') 
     p(data-aos="fade-down").mb-5.text-center Para una mejor ilustración del tema cursogramas, observe el video “Cursograma analítico”, que se encuentra en el material complementario.
 
     h5(data-aos="fade-down") Gráficos que determinan el orden de los acontecimientos según suceden indicando en una escala de tiempo   
@@ -171,7 +175,7 @@
             .col-lg-6.my-3        
               .bgw.p-5.h-100
                 h4.t1(data-aos="fade-down") Diagrama de actividades múltiples
-                p(data-aos="fade-down").mb-0 Cuando se habla de seguimiento de actividades, personas,materiales y máquinas; para lograr visualizar e identificar situacionessusceptibles de mejoramiento, estamos hablando de diagramas, flujogramas, ocursogramas. Y cuando se refiere a relacionar o interactuar varias cadenas deproducción, se está hablando de diagrama de actividades múltiples.
+                p(data-aos="fade-down").mb-0 Cuando se habla de seguimiento de actividades, personas,materiales y máquinas; para lograr visualizar e identificar situaciones susceptibles de mejoramiento, estamos hablando de diagramas, flujogramas, o cursogramas. Y cuando se refiere a relacionar o interactuar varias cadenas deproducción, se está hablando de diagrama de actividades múltiples.
             .col-lg-6.my-3        
               .bgw.p-5.h-100
                 h4.t1(data-aos="fade-down") Simograma
@@ -184,105 +188,105 @@
         .titulo-sexto.color-acento-contenido
             h5 Tabla 4.
             span Diagrama de actividades múltiples en un proceso de confección.  
-
-        table.text-center
-          thead
-            tr.bgh
-              th(rowspan='2') ACTIVIDAD
-              th(rowspan='2')
-                | TIEMPO
-                br
-                | ESTÁNDAR
-              th(colspan='3') MÁQUINA
-              th(rowspan='2') MANUAL
-            tr.bgh
-              th FILETEADORA
-              th RECUBRIDORA
-              th PLANA 1 AGUJA
-          tbody
-            tr
-              td Unir hombros
-              td 0,5
-              td.bgc1  
-              td  
-              td  
-              td  
-            tr
-              td Asentar hombros
-              td 0,5
-              td  
-              td  
-              td.bgc2  
-              td  
-            tr
-              td Pegar mangas
-              td 1
-              td.bgc1  
-              td  
-              td  
-              td  
-            tr
-              td Cerrar costados
-              td 1
-              td.bgc1  
-              td  
-              td  
-              td  
-            tr
-              td Hacer ruedo
-              td 1
-              td  
-              td.bgc3  
-              td  
-              td  
-            tr
-              td Pegar cuello
-              td 1
-              td.bgc1  
-              td  
-              td  
-              td  
-            tr
-              td Asentar cuello
-              td 1
-              td  
-              td.bgc3  
-              td  
-              td  
-            tr
-              td Pegar marquilla
-              td 0,5
-              td  
-              td  
-              td.bgc2  
-              td  
-            tr
-              td Pulir y empacar
-              td 1,5
-              td  
-              td  
-              td  
-              td.bgc4  
-            tr
-              td Estándar total o tiempo de ciclo
-              td 8
-              td  
-              td  
-              td  
-              td  
-            tr
-              td Tiempo total x maquina
-              td  
-              td.bgc1 3,5
-              td.bgc3 2
-              td.bgc2 1
-              td.bgc4 1,5
-            tr
-              td Producción x hora = 60/ estándar
-              td(colspan='5')
-                | 60/8 = 7,5
-                br
-                | Cada operación debe avanzar 7,5 und x hora  
+        .tabla-a.color-acento-contenido
+          table.table1.text-center
+            thead
+              tr.bgh
+                th(rowspan='2') ACTIVIDAD
+                th(rowspan='2')
+                  | TIEMPO
+                  br
+                  | ESTÁNDAR
+                th(colspan='3') MÁQUINA
+                th(rowspan='2') MANUAL
+              tr.bgh
+                th FILETEADORA
+                th RECUBRIDORA
+                th PLANA 1 AGUJA
+            tbody
+              tr
+                td Unir hombros
+                td 0,5
+                td.bgc1  
+                td  
+                td  
+                td  
+              tr
+                td Asentar hombros
+                td 0,5
+                td  
+                td  
+                td.bgc2  
+                td  
+              tr
+                td Pegar mangas
+                td 1
+                td.bgc1  
+                td  
+                td  
+                td  
+              tr
+                td Cerrar costados
+                td 1
+                td.bgc1  
+                td  
+                td  
+                td  
+              tr
+                td Hacer ruedo
+                td 1
+                td  
+                td.bgc3  
+                td  
+                td  
+              tr
+                td Pegar cuello
+                td 1
+                td.bgc1  
+                td  
+                td  
+                td  
+              tr
+                td Asentar cuello
+                td 1
+                td  
+                td.bgc3  
+                td  
+                td  
+              tr
+                td Pegar marquilla
+                td 0,5
+                td  
+                td  
+                td.bgc2  
+                td  
+              tr
+                td Pulir y empacar
+                td 1,5
+                td  
+                td  
+                td  
+                td.bgc4  
+              tr
+                td Estándar total o tiempo de ciclo
+                td 8
+                td  
+                td  
+                td  
+                td  
+              tr
+                td Tiempo total x maquina
+                td  
+                td.bgc1 3,5
+                td.bgc3 2
+                td.bgc2 1
+                td.bgc4 1,5
+              tr
+                td Producción x hora = 60/ estándar
+                td(colspan='5')
+                  | 60/8 = 7,5
+                  br
+                  | Cada operación debe avanzar 7,5 und x hora  
 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -293,7 +297,7 @@
 
         p(data-aos="fade-down") Total, tiempo de confección: 8 minutos
         p(data-aos="fade-down") Producción x hora (PH) = 60/8 = 7,5 unidades por hora
-        p(data-aos="fade-down") Se Multiplica las unidades esperadas por los estándares de cada máquina x operación
+        p(data-aos="fade-down") Se multiplica las unidades esperadas por los estándares de cada máquina x operación
         p(data-aos="fade-down") Así se establece que:
 
         ul.lista-ul.fa-ul(data-aos="fade-left")
@@ -317,61 +321,61 @@
         .titulo-sexto.color-acento-contenido
             h5 Tabla 5.
             span Resumen de actividades.
-
-        table.text-center
-          thead
-            tr.bgh
-              th(rowspan='2') ACTIVIDAD
-              th(rowspan='2') TIEMPO ESTÁNDAR
-              th(rowspan='2') MÁQUINA
-              th(rowspan='2') MINUTOS NECESARIOS  
-            tr
-          tbody
-            tr
-              td Unir hombros
-              td 0,5
-              td Fileteadora 
-              td 3,75
-            tr
-              td Asentar hombros
-              td 0,5
-              td 1, A
-              td 3,75
-            tr
-              td Pegar mangas
-              td 1
-              td Fileteadora 
-              td 7,5
-            tr
-              td Cerrar costados
-              td 1
-              td Fileteadora 
-              td 7,5
-            tr
-              td Hacer ruedo
-              td 1
-              td Recubridora
-              td 7,5
-            tr
-              td Pegar cuello
-              td 1
-              td Fileteadora
-              td 7,5
-            tr
-              td Asentar cuello
-              td 1
-              td Recubridora
-              td 7,5
-            tr
-              td Pegar marquilla
-              td 0,5
-              td 1, A
-              td 3,75
-            tr
-              td Pulir y empacar
-              td 1,5
-              td Manual
-              td 11,25
+        .tabla-a.color-acento-contenido
+          table.table1.text-center
+            thead
+              tr.bgh
+                th(rowspan='2') ACTIVIDAD
+                th(rowspan='2') TIEMPO ESTÁNDAR
+                th(rowspan='2') MÁQUINA
+                th(rowspan='2') MINUTOS NECESARIOS  
+              tr
+            tbody
+              tr
+                td Unir hombros
+                td 0,5
+                td Fileteadora 
+                td 3,75
+              tr
+                td Asentar hombros
+                td 0,5
+                td 1, A
+                td 3,75
+              tr
+                td Pegar mangas
+                td 1
+                td Fileteadora 
+                td 7,5
+              tr
+                td Cerrar costados
+                td 1
+                td Fileteadora 
+                td 7,5
+              tr
+                td Hacer ruedo
+                td 1
+                td Recubridora
+                td 7,5
+              tr
+                td Pegar cuello
+                td 1
+                td Fileteadora
+                td 7,5
+              tr
+                td Asentar cuello
+                td 1
+                td Recubridora
+                td 7,5
+              tr
+                td Pegar marquilla
+                td 0,5
+                td 1, A
+                td 3,75
+              tr
+                td Pulir y empacar
+                td 1,5
+                td Manual
+                td 11,25
 
     .bg19
       h5(data-aos="fade-down").pt-4 Diagramas que hacen referencia al movimiento de los elementos que intervienen en los procesos
@@ -408,8 +412,8 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12(data-aos="fade-right")         
         .titulo-sexto.color-acento-contenido
-            h5 Figura 6.
-            span Esquema general hardware. 
+            h5 Figura 10.
+            span Ejemplo de un diagrama de recorrido en el proceso de confección de un cinturón.
     .row.justify-content-center.mb-5
       .col-lg-12.p-0
         .row.justify-content-center.align-items-center.bg20.ms-1.pb-0.px-4 
@@ -424,60 +428,60 @@
     .row.justify-content-center.align-items-center.mb-5         
       .col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-            h5 Tabla 11.
+            h5 Figura 11.
             span Principales elementos simbólicos para usar en un gráfico para el registro de hechos.     
+        .tabla-a.color-acento-contenido
+          table.table1
+            thead
+              tr.bgh.text-center
+                th SÍMBOLO 
+                th ACTIVIDAD
+                th SIGNIFICADO
+            tbody
+              tr
+                td
+                  img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/98.svg')         
 
-        table
-          thead
-            tr.bgh.text-center
-              th SÍMBOLO 
-              th ACTIVIDAD
-              th SIGNIFICADO
-          tbody
-            tr
-              td
-                img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/97.svg')         
+                td.text-center Operación
+                td
+                  | Hace referencia a las fases principales del proceso. Se puede decir que existe operación cuando  se desarrolla una actividad para lograr el producto final.
+              tr
+                td 
+                  img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/97.svg')         
 
-              td.text-center Operación
-              td
-                | Hace referencia a las fases principales del proceso. Se puede decir que existe operación cuando  se desarrolla una actividad para lograr el producto final.
-            tr
-              td 
-                img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/98.svg')         
+                td.text-center Inspección
+                td
+                  | Hace referencia a la comprobación de la calidad o verificación de la cantidad. Lo cual permite identificar si la actividad se realizó de la manera adecuada.
+              tr
+                td
+                  img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/99.svg')         
 
-              td.text-center Inspección
-              td
-                | Hace referencia a la comprobación de la calidad o verificación de la cantidad. Lo cual permite identificar si la actividad se realizó de la manera adecuada.
-            tr
-              td
-                img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/99.svg')         
+                td.text-center Transporte
+                td
+                  | Hace referencia al desplazamiento que realizan los trabajadores, los productos o cualquier otro elemento.
+              tr
+                td 
+                  img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/100.svg')         
 
-              td.text-center Transporte
-              td
-                | Hace referencia al desplazamiento que realizan los trabajadores, los productos o cualquier otro elemento.
-            tr
-              td 
-                img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/100.svg')         
+                td.text-center Depósito provisional
+                td
+                  | Hace referencia a la demora en la realización de una actividad, es decir, trabajo en pausa.
+              tr
+                td 
+                  img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/101.svg')         
 
-              td.text-center Depósito provisional
-              td
-                | Hace referencia a la demora en la realización de una actividad, es decir, trabajo en pausa.
-            tr
-              td 
-                img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/101.svg')         
+                td.text-center Almacenamiento permanente
+                td
+                  | Hace referencia al hecho de guardar un elemento y no moverlo sin previa autorización.
+              tr
+                td
+                  img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/102.svg')         
 
-              td.text-center Almacenamiento permanente
-              td
-                | Hace referencia al hecho de guardar un elemento y no moverlo sin previa autorización.
-            tr
-              td
-                img.img-t.img-a.brnone(data-aos="zoom-in")(src='@/assets/curso/temas/102.svg')         
-
-              td.text-center Actividades combinadas
-              td
-                | Hace referencia a varias actividades que se ejecutan al mismo tiempo o por el mismo operario.
+                td.text-center Actividades combinadas
+                td
+                  | Hace referencia a varias actividades que se ejecutan al mismo tiempo o por el mismo operario.
         figcaption.mt-3 Nota. Adaptado de OIT. (1996) Introducción al estudio del trabajo.
-
+    p(data-aos="fade-down").mb-5 Para entender el proceso de registro de información para desarrollar la propuesta de mejora, lo invitamos a ver el video “Análisis de procesos”, el cual se encuentra en el material complementario.
     h4(data-aos="fade-down").t1.mb-4 Examinar de forma crítica el trabajo
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-6
@@ -563,7 +567,7 @@
               p Lograr que los empleados y operarios en los que repercuten las decisiones también acepten los cambios, todas las socializaciones y capacitaciones enfocadas en lograr que el personal se informe para que el nuevo método salga adelante, es fundamental para lograr obtener los beneficios con ese cambio.
           .row.justify-content-center(titulo="Nuevo método de trabajo")
             .col-11
-              p  Dar a conocer el nuevo método de trabajo a todo el personal, la información es importante cuando es verás, completa, puntual y se entrega asertivamente a las personas implicadas en el proceso a comunicar.
+              p  Dar a conocer el nuevo método de trabajo a todo el personal, la información es importante cuando es veraz, completa, puntual y se entrega asertivamente a las personas implicadas en el proceso a comunicar.
           .row.justify-content-center(titulo="Monitoreo del nuevo método de trabajo")
             .col-11
               p  Monitorear el nuevo método de trabajo para estar seguros de que se lleva a cabo del modo previsto, es fundamental el acompañamiento que se realiza a la implementación del nuevo método.                                                        

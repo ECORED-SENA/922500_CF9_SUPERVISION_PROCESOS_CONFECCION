@@ -87,7 +87,7 @@
                     i.fas.fa-file-download  
 
     h4(data-aos="fade-down").t1.mb-3 Diagrama de Operaciones del Proceso (DOP)
-    p(data-aos="fade-down").mb-5 En la segunda fase del estudio de métodos se hizo énfasis en los tipos de gráficos utilizados para registrar la información, los cuales hacen parte del Diagrama de Operaciones del Proceso (DOP), el cual muestra de forma cronológica todas las actividades requeridas en el proceso de producción. Esto se evidencia desde que ingresa la materia prima hasta su distribución como producto final. 
+    p(data-aos="fade-down").mb-5 En la segunda fase del estudio de métodos se hizo énfasis en los tipos de gráficos utilizados para registrar la información, estos elementos hacen parte del Diagrama de Operaciones del Proceso (DOP), el cual muestra de forma cronológica todas las actividades requeridas en el proceso de producción. Esto se evidencia desde que ingresa la materia prima hasta su distribución como producto final.
 
     .row.justify-content-center.align-items-center.mb-5         
       .col-lg-8(data-aos="fade-right")

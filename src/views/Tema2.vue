@@ -9,7 +9,7 @@
     .bg1.mb-4
       .row.justify-content-center.align-items-center.py-4          
         .col-lg-7.my-3
-          p(data-aos="fade-down") El término restricción se define como una limitación, algo que impide superar cierta meta. La Teoría de Restricciones, formulada por el profesor y físico de Israel Eliyahu Goldratt, tienen como fundamento la teoría general de sistemas, y se enfoca en el objetivo general de toda empresa, el cual es generar dinero a la mayor velocidad posible a través de las ventas (Goldratt y Cox, 2008), valor que es medido con el indicador llamado throughput, para lograr esto, se dice que se deben centrar los esfuerzos en la operación ‘cuello de botella’, es decir la operación que más se demora y limita los resultados globales. 
+          p(data-aos="fade-down") El término restricción se define como una limitación, algo que impide superar ciertas metas. La Teoría de Restricciones, formulada por el profesor y físico israelí Eliyahu Goldratt, tiene como fundamento la teoría general de sistemas y se centra en el objetivo general de toda empresa: generar dinero a la mayor velocidad posible a través de las ventas (Goldratt y Cox, 2008). Este valor se mide mediante el indicador llamado #[i throughput]. Para lograr esto, se sostiene que los esfuerzos deben concentrarse en la operación #[b ‘cuello de botella’], es decir, en la operación que más tiempo consume y limita los resultados globales.
         .col-lg-5.my-3 
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/31.png', alt='') 
 
@@ -36,7 +36,7 @@
             .col-lg-4.my-3        
               .bgw.p-4.h-100
                 h4(data-aos="fade-down") Beneficio Neto  
-                p(data-aos="fade-down").mb-0 Este indicador corresponde a la sumatoria del Throughput (rendimiento) y la resta de todos los gastos operativos correspondientes al periodo. Dentro del objetivo o propósito de la teoría de restricciones esta incrementar este beneficio neto.
+                p(data-aos="fade-down").mb-0 Este indicador corresponde a la sumatoria del #[i Throughput] (rendimiento) y la resta de todos los gastos operativos correspondientes al periodo. Dentro del objetivo o propósito de la teoría de restricciones esta incrementar este beneficio neto.
             .col-lg-4.my-3        
               .bgw.p-4.h-100
                 h4(data-aos="fade-down") Retorno de la Inversión - ROI                                 
@@ -49,12 +49,12 @@
               .list__item__icon
                 img(src='@/assets/curso/temas/v3.svg', alt='')
             .list__txt
-              h4.mb-0 Indicadores claves de la teoría de restricciones
+              h4.mb-0 Principios fundamentales
     p.mb-5(data-aos="fade-down")  Al analizar las diversas variables en que se basa la teoría de restricciones, se identifican las posibles soluciones para tratar el cuello de botella presente en el proceso.
 
     .row.justify-content-center.align-items-center.mb-4          
       .col-lg-6.my-3 
-        p(data-aos="fade-down").mb-0 Este se detecta de manera visual por volúmenes de unidades concentradas o acumuladas en la línea o módulo de proceso, normalmente ocurre por daños mecánicos de las máquinas o por errores de calidad. Cuando en la máquina ocurre un daño mecánico el operario no puede seguir fabricando unidades, esto genera un obstáculo para que las siguientes operaciones continúen el proceso de fabricación, generando un atraso y un cuello de botella, es decir, donde no puede continuar el flujo de trabajo.                         
+        p(data-aos="fade-down").mb-0 Este se detecta de manera visual por volúmenes de unidades concentradas o acumuladas en la línea o módulo de proceso, normalmente ocurre por daños mecánicos de las máquinas o por errores de calidad. Cuando en la máquina ocurre un daño mecánico el operario no puede seguir fabricando unidades, esto provoca un obstáculo para que las siguientes operaciones continúen el proceso de fabricación, lo que ocasiona un atraso y un cuello de botella, es decir, donde no puede continuar el flujo de trabajo.                        
       .col-lg-6.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='')
 
@@ -68,7 +68,7 @@
       .py-3.py-md-4(titulo="Evitar sobrestocks")
         .row.justify-content-center.pt-3
           .col-md-6.mb-4.mb-md-0
-            p La producción de un puesto sin cuello de botella debe estar supeditada a la del cuello de botella de su línea. Una sobreproducción por cuellos de botella genera stocks (inventarios) innecesarios, paralizando el flujo de trabajo, generando problemáticas hasta por defectos de calidad sin identificar. 
+            p La producción de un puesto sin cuello de botella debe estar supeditada a la del cuello de botella de su línea. Una sobreproducción por cuellos de botella genera #[i stocks] (inventarios) innecesarios, paralizando el flujo de trabajo, generando problemáticas hasta por defectos de calidad sin identificar. 
           .col-md-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/35.png', alt='')
       .py-3.py-md-4(titulo="Tiempo perdido en el flujo")
@@ -90,7 +90,7 @@
               li 
                 i.fas.fa-tshirt.c1
                 p.mb-0 El lote de transferencia es la cantidad que se transporta de un puesto a otro de trabajo.
-            p En los sistemas productivos clásicos, ambos lotes suelen tener el mismo tamaño, esto hace que se aumente el tiempo total de fabricación y el stock en curso. En los procesos de confección es muy común que se asignen lotes grandes, desconociendo que lo que genera es un tiempo de respuesta más demorado en los procesos siguientes, las nuevas metodologías sugieren que los lotes de producción sean máximos de 5 piezas por cada puesto de trabajo para que la transferencia sea más rápida. Hay que tender a tamaños de lote transferencia lo más pequeño posibles, de esta manera se reduce el lead time (tiempo de espera).
+            p En los sistemas productivos clásicos, ambos lotes suelen tener el mismo tamaño, esto hace que se aumente el tiempo total de fabricación y el #[i stock] en curso. En los procesos de confección es muy común que se asignen lotes grandes, desconociendo que lo que genera es un tiempo de respuesta más demorado en los procesos siguientes, las nuevas metodologías sugieren que los lotes de producción sean máximos de 5 piezas por cada puesto de trabajo para que la transferencia sea más rápida. Hay que tender a tamaños de lote transferencia lo más pequeño posibles, de esta manera se reduce el #[i lead time] (tiempo de espera).
           .col-md-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/37.png', alt='')
       .py-3.py-md-4(titulo="Prioridad de mantenimiento en las restricciones")
@@ -108,21 +108,21 @@
                 img(src='@/assets/curso/temas/v3.svg', alt='')
             .list__txt
               h4.mb-0 Pasos para la mitigación de restricciones
-    p.mb-5(data-aos="fade-down") Las restricciones o cuellos de botella del flujo del proceso se mitigan a través de los siguientes pasos, ver figura 1, los cuales reflejan un ciclo que vuelve a empezar una vez se haya resuelto el cuello de botella identificado.  
+    p.mb-5(data-aos="fade-down") Las restricciones o cuellos de botella del flujo del proceso se mitigan a través de los siguientes pasos, ver figura 3, los cuales reflejan un ciclo que vuelve a empezar una vez se haya resuelto el cuello de botella identificado.  
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-4(data-aos="fade-left")     
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
           span  Pasos para mitigar restricciones
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='')  
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='La figura representa los pasos para mitigar las restricciones. Primero, se realiza la identificación de las restricciones. Segundo, se procede a explotar la restricción. Tercero, se subordina todo a la decisión anterior. Cuarto, se busca aumentar la capacidad de la restricción. Y quinto, se comienza de nuevo el proceso.')  
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta bg11")
       .row.justify-content-center(titulo="Identificación de restricciones")
         .col-md-6.mb-4.mb-md-0
           p Dentro de una línea de producción en una empresa de confecciones, se puede validar la presencia de restricciones o cuellos de botella, cuando vemos acumulación de producto en desarrollo en algún punto del flujo del proceso, esto significa que esta estación de trabajo está respondiendo con menor velocidad que el resto.
 
-          p Si el proceso de producción tiene varias secciones claramente definidas, cada una de ellas puede tener un cuello de botella. Sin embargo, estos cuellos de botella no son fáciles de identificar a simple vista. Por lo tanto, se pueden prever mediante la estimación de la velocidad con la que cada parte del proceso responde al siguiente, tal como se muestra en la Figura 2. 
+          p Si el proceso de producción tiene varias secciones claramente definidas, cada una de ellas puede tener un cuello de botella. Sin embargo, estos cuellos de botella no son fáciles de identificar a simple vista. Por lo tanto, se pueden prever mediante la estimación de la velocidad con la que cada parte del proceso responde al siguiente, tal como se muestra en la Figura 4. 
         .col-md-6
           .titulo-sexto.color-acento-contenido
             h5 Figura 4.
