@@ -94,7 +94,7 @@
         .titulo-sexto.color-acento-contenido
             h5 Figura 13.
             span Ejemplo Diagrama de Operaciones del Proceso (DOP).
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/120.svg', alt='') 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/120.svg', alt='La figura muestra un ejemplo de un Diagrama de Operaciones del Proceso. En él se distinguen tres fases: preparación, ensamble y terminación. Cada fase cuenta con su respectiva operación. En los procesos 1, 2 y 3 se llevan a cabo operaciones específicas. En el proceso 4 se realiza una inspección, y en el proceso 5 se ejecuta otra operación.') 
 
     h4(data-aos="fade-down").t1.mb-3 Diagrama de Análisis del Proceso (DAP)
     p(data-aos="fade-down").mb-5 Un Diagrama de Análisis del Proceso (DAP) da a conocer toda la trayectoria que realiza un producto, lo cual permite evidenciar los problemas que pueden estar surgiendo en este aspecto. Este se divide en tres categorías:    
@@ -129,7 +129,7 @@
         .titulo-sexto.color-acento-contenido
             h5 Figura 14.
             span Ejemplo Diagrama de Análisis del Proceso (DAP).
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/124.svg', alt='') 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/124.svg', alt='La figura muestra un ejemplo de un Diagrama de Análisis del Proceso. Este diagrama presenta el proceso a seguir, cómo inicia, cómo termina, y especifica el tipo, ya sea para hombre o mujer. También se indica el método, la unidad del operario que lo elaboró y quién lo aprobó. Se resume mediante diferentes opciones como operación, inspección, transporte, demora, almacén y combinada, las cuales se representan a través de distintos símbolos.') 
 
     h4(data-aos="fade-down").t1.mb-3 Diagrama Causa – Efecto
     p(data-aos="fade-down").mb-5 Es un elemento gráfico que da cuenta de las causas que afectan un problema determinado de manera cualitativa. Por su estructura también es denominado diagrama de espina de pescado. Mediante su representación se facilita el análisis de los problemas y sus soluciones, de acuerdo con las variables que intervienen en el proceso analizado. 
@@ -139,7 +139,7 @@
         .titulo-sexto.color-acento-contenido
             h5 Figura 15.
             span Ejemplo Diagrama Causa-efecto
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/125.svg', alt='')                                            
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/125.svg', alt='La figura muestra un ejemplo de un Diagrama Causa-efecto, también conocido como espina de pescado. En el cuerpo del diagrama se identifican las causas, tales como los costos, colaboradores, maquinaria, variables e insumos. El efecto representado es el producto no conforme debido a defectos de calidad.')                                            
 </template>
 
 <script>

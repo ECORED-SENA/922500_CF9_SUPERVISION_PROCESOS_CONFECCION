@@ -269,7 +269,7 @@
               tr
                 td Cálculos de consumos
                 td
-                  | Si se elabora de manera manual o con la ayuda de algún #[i software], el costo depende de ello.
+                  | Si se elabora de manera manual o con la ayuda de algún #[i.brdtext software], el costo depende de ello.
               tr
                 td Programar la Producción e Integrar la información de los procesos
                 td
@@ -294,7 +294,7 @@
                   | Si realizó esta actividad manualmente y utilizó ciertos recursos y en determinada cantidad.
               tr
                 td
-                  | Si utilizó un #[i software], se emplearán menos recursos, por consiguiente menos costos.
+                  | Si utilizó un #[i.brdtext software], se emplearán menos recursos, por consiguiente menos costos.
               tr
                 td Extender
                 td

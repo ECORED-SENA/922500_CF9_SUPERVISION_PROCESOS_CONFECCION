@@ -236,42 +236,42 @@ export default {
       link: 'https://www.youtube.com/watch?v=AawCgw-HwCE',
     },
     {
-      tema: 'Video YouTube',
-      referencia: '<i>Hardware</i> para visualizar y controlar',
-      tipo:
-        'GRUPO GARATU. (2019). Sistema M.E.S. (Manufacturing Execution System) Caso de éxito en laminación.  [Video] YouTube',
+      tema: 'Hardware para visualizar y controlar',
+      referencia:
+        'GRUPO GARATU. (2019). Sistema M.E.S. (Manufacturing Execution System) Caso de éxito en laminación.  [Video] YouTube ',
+      tipo: 'Video YouTube',
       link: 'https://youtu.be/UjbIm_aD4dQ',
     },
     {
-      tema: 'Video YouTube',
-      referencia: '<i>Hardware</i> para visualizar y controlar',
-      tipo:
+      tema: 'Hardware para visualizar y controlar',
+      referencia:
         'QFB Farma. (2019). <i>Indicadores de Producción</i>. [Video] YouTube',
+      tipo: 'Video YouTube',
       link: 'https://www.youtube.com/watch?v=B-aye88Fkvc',
     },
     {
-      tema: 'Video YouTube',
-      referencia: '<i>Hardware</i> para visualizar y controlar',
-      tipo:
-        'Lojan, E. (2019). <i>SISTEMA ANDON (ANDON SYSTEM)</i>.  [Video] YouTube',
+      tema: 'Hardware para visualizar y controlar',
+      referencia:
+        'Lojan, E. (2019). <i>SISTEMA ANDON (ANDON SYSTEM)</i>.  [Video] YouTube.',
+      tipo: 'Video YouTube',
       link: 'https://www.youtube.com/watch?v=HXqQv3gHaA4',
     },
     {
-      tema: 'Video YouTube',
+      tema: 'Software para diseño, simulación y optimización de plantas.',
       referencia:
         'Deimos kress (2018) <i>Mejores 5 programas para hacer planos 3d</i> [Video] YouTube',
       tipo: 'Video YouTube',
       link: 'https://youtu.be/fBTV6LPQzKQ',
     },
     {
-      tema: 'Video YouTube',
+      tema: 'Software para diseño, simulación y optimización de plantas.',
       referencia:
         'Investigaciones industriales ASC. (2017). <i>5 mejores programas de simulación industrial</i>. [Video] YouTube',
       tipo: 'Video YouTube',
       link: 'https://www.youtube.com/watch?v=_FjqFARf0FA',
     },
     {
-      tema: 'Video YouTube',
+      tema: 'Software para diseño, simulación y optimización de plantas.',
       referencia:
         'Martínez, J. (2020). <i>Diseño y simulación de planta de confecciones en flexsim</i>.  [Video] YouTube',
       tipo: 'Video YouTube',
@@ -616,6 +616,7 @@ export default {
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Diseñadora instruccional',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

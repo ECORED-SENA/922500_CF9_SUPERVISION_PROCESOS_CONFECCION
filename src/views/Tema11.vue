@@ -43,7 +43,7 @@
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
-              img.img-a.img-t(src='@/assets/curso/temas/161.svg', alt='Ciclo PHVA')
+              img.img-a.img-t(src='@/assets/curso/temas/161.svg', alt='La figura representa algunos términos clave relacionados con la definición y aplicación de términos estadísticos. El primero es población, que se refiere a todos los individuos, elementos, objetos o fenómenos que se desean estudiar. El segundo término es muestra, que es un conjunto de datos seleccionado de la población. Los individuos son cada uno de los elementos u objetos que conforman la población. Por último, las variables son características que pueden cambiar, generando diferentes valores que son observables y medibles. Estas pueden clasificarse en cualitativas y cuantitativas.')
 
           .tarjeta.color-primario.p-3(x="50%" y="20%" numero="+")
             .h5 Población  

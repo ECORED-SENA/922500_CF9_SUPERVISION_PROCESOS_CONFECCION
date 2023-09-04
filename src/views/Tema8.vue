@@ -27,7 +27,7 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img.img-a.img-t(src='@/assets/curso/temas/128.svg', alt='Ciclo PHVA')
+                img.img-a.img-t(src='@/assets/curso/temas/128.svg', alt='La figura representa el Ciclo PHVA (Planear, Hacer, Verificar, Actuar). En la primera fase, planear, es fundamental para el desarrollo de todo proceso. Aquí se definen los recursos estimados, el talento humano requerido, los objetivos y los pasos a seguir. El segundo paso, hacer, implica poner a prueba todas las acciones y recursos estimados en un ambiente controlado para alcanzar la meta propuesta. El tercer paso, verificar, consiste en analizar y reconocer la información relacionada con la meta establecida. Finalmente, el paso actuar cierra el ciclo, y en este punto es posible determinar si es necesario implementar cambios o actuar en función de los beneficios obtenidos.')
 
             .tarjeta.color-primario.p-3(x="32%" y="29.5%" numero="+")
               .h5 Planear

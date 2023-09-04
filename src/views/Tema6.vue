@@ -175,7 +175,7 @@
             .col-lg-6.my-3        
               .bgw.p-5.h-100
                 h4.t1(data-aos="fade-down") Diagrama de actividades múltiples
-                p(data-aos="fade-down").mb-0 Cuando se habla de seguimiento de actividades, personas,materiales y máquinas; para lograr visualizar e identificar situaciones susceptibles de mejoramiento, estamos hablando de diagramas, flujogramas, o cursogramas. Y cuando se refiere a relacionar o interactuar varias cadenas deproducción, se está hablando de diagrama de actividades múltiples.
+                p(data-aos="fade-down").mb-0 Cuando se habla de seguimiento de actividades, personas, materiales y máquinas; para lograr visualizar e identificar situaciones susceptibles de mejoramiento, estamos hablando de diagramas, flujogramas, o cursogramas. Y cuando se refiere a relacionar o interactuar varias cadenas deproducción, se está hablando de diagrama de actividades múltiples.
             .col-lg-6.my-3        
               .bgw.p-5.h-100
                 h4.t1(data-aos="fade-down") Simograma
@@ -418,7 +418,7 @@
       .col-lg-12.p-0
         .row.justify-content-center.align-items-center.bg20.ms-1.pb-0.px-4 
           .col-lg-7.p-0
-            img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/95.svg')         
+            img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/95.svg', alt='La figura muestra un ejemplo de un diagrama de recorrido para el proceso de confección de un cinturón. Lo primero que se observa es el ingreso al área de máquinas. En esta sección, se encuentran las máquinas de coser específicas para el cinturón y las máquinas de coser de punta. Luego, el proceso avanza hacia el área de perforado. Posteriormente, se dirige al área de ensamblaje, donde se hallan el área de corte, la cizalla, la cortadora y el área de remache. Aquí también se ubican la máquina de coser para otra orilla y la máquina de forrado de alambre. Finalmente, los cinturones terminados son enviados al almacén.')         
           .col-lg-5(data-aos="fade-down")
             .p-5.pe-0
               p En las imágenes anteriores se evidencian los tipos de gráficos utilizados en diversos procesos de producción relacionados con el sector moda, según sus diferentes propiedades, a partir de ellos se identifican los símbolos empleados para reducir el tiempo de escritura y se constituyen como claves cómodas para determinar las distintas actividades existentes. Con la observación directa es como se generan los gráficos que permiten mayor agilidad de entendimiento de las actividades, lo cual reduce horas de lectura en escritos extensos, además muestran con claridad lo que se desarrolla en cada proceso.
@@ -540,7 +540,7 @@
           .titulo-sexto.color-acento-contenido
               h5 Figura 12.
               span Ejemplo de una Hoja de Instrucciones
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/107.png', alt='')  
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/107.png', alt='La figura muestra un ejemplo de una Hoja de Instrucciones. En ella se especifica el tipo de producto, que en este caso es un tubo de vidrio. También se detalla la operación a realizar, que consiste en cortar el tubo en tramos de 1.5 unidades. En cuanto a las condiciones de trabajo, es esencial contar con buena iluminación y se señala que la tarea se llevará a cabo en el taller de ajuste. Además, se menciona al operario y la ficha en la que se encuentra registrada la operación. La hoja también lista el equipo necesario, la plantilla para su uso, el estudio de referencia, así como las fechas y la aprobación de la ficha. Al finalizar la tabla, se indica cómo se debe manejar cada mano: cómo la izquierda y la derecha deben sostener el tubo y cómo aplicar los movimientos adecuados.')  
           figcaption.mt-3 Nota. Adaptado de OIT. (1996). Introducción al estudio del trabajo. 
     h4(data-aos="fade-down").t1.mb-4 Implantar el nuevo método de trabajo 
     .row.justify-content-center.align-items-center.mb-4
