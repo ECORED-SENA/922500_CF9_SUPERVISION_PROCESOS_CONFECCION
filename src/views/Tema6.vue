@@ -29,7 +29,7 @@
           .col-auto.pb-0
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')
           .col
-            p.mb-0.p-4 Para ampliar la información acerca de la Ley de Pareto, lo invitamos a ver el video “#[b Qué es la ley de Pareto 80-20]”, el cual se encuentra en el material complementario.        
+            p.mb-0.p-4 Para ampliar la información acerca de la Ley de Pareto, lo invitamos a ver el video “#[b Que es la ley de Pareto 80-20]”, el cual se encuentra en el material complementario.        
     Separador 
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 6.1 Estudio de métodos                 
@@ -71,7 +71,7 @@
 
         .col-lg-9
           .bgw.p-4.pb-0.mb-4 
-            SlyderE(indicadores="derecha")
+            SlyderA(tipo="b").pb-2
               .row.justify-content-center
                 .col-md-8.mb-4.mb-md-0
                   h4.t1 Consideraciones económicas
@@ -159,9 +159,13 @@
       .col-lg-8(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
             h5 Figura 9.
-            span Cursograma sinóptico. Proceso: camisilla interior
+            span Cursograma sinóptico. Proceso: confección de vestido
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/86.svg', alt='La figura ilustra un cursograma analítico que detalla el proceso de fabricación de un vestido, abarcando desde el almacenamiento en el almacén hasta el almacenamiento en la bodega. Cada acción y paso se describe junto con la cantidad, la duración estimada y el tiempo que tomará la construcción. Se incluye la actividad que se llevará a cabo, así como observaciones adicionales pertinentes.') 
-    p(data-aos="fade-down").mb-5.text-center Para una mejor ilustración del tema cursogramas, observe el video “Cursograma analítico”, que se encuentra en el material complementario.
+        .row.justify-content-center.align-items-end.mt-5.bg13          
+          .col-auto.pb-0
+            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')
+          .col
+            p.mb-0.p-4 Para una mejor ilustración del tema cursogramas, observe el video “Cursograma analítico”, que se encuentra en el material complementario.
 
     h5(data-aos="fade-down") Gráficos que determinan el orden de los acontecimientos según suceden indicando en una escala de tiempo   
     p(data-aos="fade-down").mb-5 Estos gráficos permiten una mejor observación del proceso, entre ellos encontramos:
@@ -175,7 +179,7 @@
             .col-lg-6.my-3        
               .bgw.p-5.h-100
                 h4.t1(data-aos="fade-down") Diagrama de actividades múltiples
-                p(data-aos="fade-down").mb-0 Cuando se habla de seguimiento de actividades, personas, materiales y máquinas; para lograr visualizar e identificar situaciones susceptibles de mejoramiento, estamos hablando de diagramas, flujogramas, o cursogramas. Y cuando se refiere a relacionar o interactuar varias cadenas deproducción, se está hablando de diagrama de actividades múltiples.
+                p(data-aos="fade-down").mb-0 Cuando se habla de seguimiento de actividades, personas, materiales y máquinas; para lograr visualizar e identificar situaciones susceptibles de mejoramiento, estamos hablando de diagramas, flujogramas, o cursogramas. Y cuando se refiere a relacionar o interactuar varias cadenas de producción, se está hablando de diagrama de actividades múltiples.
             .col-lg-6.my-3        
               .bgw.p-5.h-100
                 h4.t1(data-aos="fade-down") Simograma
@@ -184,7 +188,7 @@
     p(data-aos="fade-down").mb-5 Se representa a continuación el diagrama de actividades múltiples de una camiseta básica cuello redondo, en el cual se pueden ver las operaciones, el tiempo que se demora cada una y la manera cómo se desarrollan y relacionan en un orden lógico.   
 
     .row.justify-content-center.align-items-center.mb-5         
-      .col-lg-8(data-aos="fade-right")
+      .col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
             h5 Tabla 4.
             span Diagrama de actividades múltiples en un proceso de confección.  
@@ -317,7 +321,7 @@
     p(data-aos="fade-down").mb-5 Los datos registrados permiten realizar una mejor planeación y entender cómo se relacionan las actividades del proceso, como se observa a continuación. 
 
     .row.justify-content-center.align-items-center.mb-5         
-      .col-lg-6(data-aos="fade-right")
+      .col-lg-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
             h5 Tabla 5.
             span Resumen de actividades.
@@ -505,7 +509,7 @@
                 p El interrogatorio constituye un elemento clave para el examen crítico, donde a través de preguntas definidas como preliminares se establecen temas como, el propósito de la actividad, el lugar, los medios utilizados, el talento humano y demás, que se conectarán con el objetivo que se espera, así se determinará qué acciones tomar frente a la situación actual de este proceso.  
             .row.justify-content-center.mt-3
               .col-11
-                h4 No hay transformación de la materia 1 
+                h4 No hay transformación de la materia 2
                 p  Después de las preguntas preliminares, continuarán las preguntas de fondo que permiten identificar a partir de la información obtenida, qué se debería hacer para mejorar la actividad, lo cual facilita la profundización en las respuestas con relación a los temas definidos anteriormente, al combinar los dos tipos de preguntas se obtienen la totalidad de interrogantes que se hacen necesarios para el estudio.
 
     .bg21.mb-5 

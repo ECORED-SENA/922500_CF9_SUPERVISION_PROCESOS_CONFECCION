@@ -54,7 +54,7 @@
 
     .row.justify-content-center.align-items-center.mb-4          
       .col-lg-6.my-3 
-        p(data-aos="fade-down").mb-0 Este se detecta de manera visual por volúmenes de unidades concentradas o acumuladas en la línea o módulo de proceso, normalmente ocurre por daños mecánicos de las máquinas o por errores de calidad. Cuando en la máquina ocurre un daño mecánico el operario no puede seguir fabricando unidades, esto provoca un obstáculo para que las siguientes operaciones continúen el proceso de fabricación, lo que ocasiona un atraso y un cuello de botella, es decir, donde no puede continuar el flujo de trabajo.                        
+        p(data-aos="fade-down").mb-0 Este se detecta de manera visual por volúmenes de unidades concentradas o acumuladas en la línea o módulo de proceso, normalmente ocurre por daños mecánicos de las máquinas o por errores de calidad. Cuando en la máquina ocurre un daño mecánico, el operario no puede seguir fabricando unidades, esto provoca un obstáculo para que las siguientes operaciones continúen el proceso de fabricación, lo que ocasiona un atraso y un cuello de botella, es decir, donde no puede continuar el flujo de trabajo.                        
       .col-lg-6.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='')
 
@@ -65,7 +65,7 @@
             p Lo realmente importante es que el flujo de producción sea equilibrado, hay que focalizarse más en el flujo que en las capacidades productivas individuales de los puestos de trabajo, como se observa en la figura que representa el cuello de botella, durante el balanceo de líneas o módulos, según el sistema de producción empleado. 
           .col-md-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/34.png', alt='')
-      .py-3.py-md-4(titulo="Evitar sobrestocks")
+      .py-3.py-md-4(titulo="Evitar “sobreStock”")
         .row.justify-content-center.pt-3
           .col-md-6.mb-4.mb-md-0
             p La producción de un puesto sin cuello de botella debe estar supeditada a la del cuello de botella de su línea. Una sobreproducción por cuellos de botella genera #[i stocks] (inventarios) innecesarios, paralizando el flujo de trabajo, generando problemáticas hasta por defectos de calidad sin identificar. 
@@ -127,15 +127,15 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 4.
             span Cuello de Botella
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/40.svg', alt='') 
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/40.svg', alt='Gráfica que muestra cuatro operaciones de trabajo donde, en la tercera, se responde con menor velocidad y capacidad, generando un cuello de botella en la producción.') 
       .row.justify-content-center(titulo="Explotar la restricción")
         .col-12
-          p Después de identificar la restricción, es necesario decidir qué hacer con las limitaciones ya que hay varias posibilidades según la inversión disponible. Generalmente el tipo de propuestas serán evaluadas a través de costo y la más económica puede ser actuar para tener el puesto a la máxima producción; por ejemplo, realizar un estudio de trabajo con el objetivo de optimizar la capacidad actual, (técnica que se verá posteriormente) o aprovechar al máximo el recurso que representa el cuello de botella.
+          p Después de identificar la restricción, es necesario decidir qué hacer con las limitaciones, ya que hay varias posibilidades según la inversión disponible. Generalmente el tipo de propuestas serán evaluadas a través de costo y la más económica puede ser actuar para tener el puesto a la máxima producción; por ejemplo, realizar un estudio de trabajo con el objetivo de optimizar la capacidad actual, (técnica que se verá posteriormente) o aprovechar al máximo el recurso que representa el cuello de botella.
 
           p Por ejemplo, si la restricción de la planta de confección es la operación en una máquina automática pegadora de bolsillos, equipos que se caracterizan por ser restringidos por su costo de inversión, habrá que asegurarse de que dicha máquina funciona siempre a su pleno rendimiento, entonces hacerle un mantenimiento preventivo adecuado y gestionar los tiempos de producción pueden ser opciones de tratamiento.      
       .row.justify-content-center(titulo="Subordinar todo a la restricción")
         .col-12
-          p Los recursos que no son una restricción tienen, por definición, más capacidad que el recurso que representa el cuello de botella. Pero es importante no producir a un ritmo mayor al de la restricción ya que puede generar excesos de inventario y mayores costos en las tareas de control, por ejemplo, en una planta de confección en donde se ha identificado que la restricción es una máquina automática pegadora de bolsillos, se debe asegurar que las demás operaciones trabajen al mismo ritmo del cuello de botella, ya que operar de más, significará pérdidas de tiempo y dinero. 
+          p Los recursos que no son una restricción tienen, por definición, más capacidad que el recurso que representa el cuello de botella. Pero es importante no producir a un ritmo mayor al de la restricción, ya que puede generar excesos de inventario y mayores costos en las tareas de control, por ejemplo, en una planta de confección en donde se ha identificado que la restricción es una máquina automática pegadora de bolsillos, se debe asegurar que las demás operaciones trabajen al mismo ritmo del cuello de botella, ya que operar de más, significará pérdidas de tiempo y dinero. 
       .row.justify-content-center(titulo="Aumentar la capacidad de la restricción")
         .col-12
           p Una vez que la capacidad del recurso que representa la restricción del sistema ha alcanzado la máxima capacidad, entonces es momento de elevarlo invirtiendo en más equipamiento o tecnología, por ejemplo en la restricción identificada sobre la máquina automática pegadora de bolsillos, se tendría que pensar en mejorar en una tecnología que permita aumentar la capacidad, si la actual hacía 150 unidades por hora, es momento de pensar si se puede invertir en una que haga el doble, mínimo 300 unidades y que se pueda recuperar la inversión rápidamente.      

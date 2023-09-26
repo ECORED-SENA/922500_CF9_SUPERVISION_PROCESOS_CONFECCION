@@ -220,7 +220,7 @@
                 td
                   | Cuando el método aprobado permite manejar menos inventarios, el costo se verá afectado.
               tr
-                td(rowspan='2') Mano de Obra Directa
+                td(rowspan='2') Mano de obra directa
                 td
                   | Cuando se reduce la cantidad de tiempo para realizar una actividad por medio del diseño e implementación de una manera más rápida de realizarla.
                 td
@@ -229,7 +229,7 @@
                 td Al utilizar tecnología blanda y dura en los procesos de manufactura.
                 td Se rebajan los tiempos de ejecución.
               tr.bgtr
-                td Costos Indirectos de Fabricación.
+                td Costos indirectos de fabricación.
                 td
                   | El diseñar e implementar mejores maneras de hacer las cosas, permiten que se necesiten menos espacios de trabajo, menor gasto de energía, de transporte y de papelería, entre otros.
                 td
@@ -251,6 +251,9 @@
     p(data-aos="fade-down").mb-5 En el proceso de diseño de moda se investigan tendencias en figuras, siluetas, colores, acabados, materiales y accesorios a través de desfiles, vitrinas, internet, centros comerciales, ferias, etc. Con esta información se elaboran prototipos que, al ser aprobados, servirán para la programación de procesos posteriores. Es importante revisar constantemente los métodos y recursos utilizados para encontrar posibilidades de mejoramiento y reducción de costos. La tecnología juega un papel fundamental en este proceso, permitiendo la realización de procesos más ágiles y eficientes.
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-9(data-aos="fade-left")
+        .titulo-sexto.color-acento-contenido
+            h5 Tabla 9.
+            span Análisis del método y el costo      
         .tabla-a.color-acento-contenido      
           table.table1
             thead
@@ -271,7 +274,7 @@
                 td
                   | Si se elabora de manera manual o con la ayuda de algún #[i.brdtext software], el costo depende de ello.
               tr
-                td Programar la Producción e Integrar la información de los procesos
+                td Programar la producción e integrar la información de los procesos
                 td
                   | Al integrar la información necesaria para programar lotes, entre el área de diseño y las demás áreas, se agiliza los procesos y la información. De acuerdo con resultados obtenidos de diseño, se realiza la programación de producción.
 
@@ -279,6 +282,9 @@
     p(data-aos="fade-down").mb-5 En el área de producción de moda, las actividades realizadas son susceptibles de mejora en diferentes aspectos, como la recepción y almacenamiento de materiales, transporte de materiales y personas, elaboración y utilización de formatos, utilización de tecnología en la labor de extendida y corte, alistamiento de las piezas cortadas para el siguiente proceso, y manejo de la información. El costo de ejecución y la cantidad de recursos utilizados en cada actividad dependen del método de trabajo utilizado en cada acción.
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-9(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+            h5 Tabla 10.
+            span Trazo y corte       
         .tabla-a.color-acento-contenido      
           table.table1
             thead
@@ -318,6 +324,9 @@
     p(data-aos="fade-down").mb-5 El costo de confección en la moda depende del tipo, calidad y cantidad de materiales, complejidad de la prenda, producción y lugar. La mano de obra es otro factor importante. Para calcular los costos, se deben considerar los materiales, producción y costos indirectos. Las empresas deben gestionar sus costos eficientemente para competir y ofrecer precios atractivos. Pueden reducir costos con la optimización de procesos, automatización de tareas y gestión eficiente de recursos.
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-9(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+            h5 Tabla 11.
+            span Cálculo valor minuto       
         .tabla-a.color-acento-contenido      
           table.table1
             tbody

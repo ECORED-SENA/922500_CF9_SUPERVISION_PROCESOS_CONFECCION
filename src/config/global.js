@@ -257,6 +257,20 @@ export default {
       link: 'https://www.youtube.com/watch?v=HXqQv3gHaA4',
     },
     {
+      tema: 'Hardware para visualizar y controlar',
+      referencia:
+        'Zadesoft. (2022). Software Planificador de la Produccion [Vídeo]. YouTube.',
+      tipo: 'Video YouTube',
+      link: 'https://www.youtube.com/watch?v=du00u40ZUr0',
+    },
+    {
+      tema: 'Hardware para visualizar y controlar',
+      referencia:
+        'Incluido: AFB Farma. (2019). Indicadores de producción [Vídeo]. YouTube.',
+      tipo: 'Video YouTube',
+      link: 'https://www.youtube.com/watch?v=B-aye88Fkvc',
+    },
+    {
       tema: 'Software para diseño, simulación y optimización de plantas.',
       referencia:
         'Deimos kress (2018) <i>Mejores 5 programas para hacer planos 3d</i> [Video] YouTube',
@@ -281,21 +295,21 @@ export default {
       tema: 'Estudio de métodos',
       referencia:
         'ProdHabits. (2019). <i>Que es la ley de Pareto 80-20</i> [Vídeo]. YouTube.',
-      tipo: 'Video',
+      tipo: 'Video YouTube',
       link: 'https://youtu.be/n3xpKz0SYlQ',
     },
     {
       tema: 'Estudio de métodos',
       referencia:
         'Carter, K. (2016). <i>Cursograma Analítico</i>  [Vídeo]. YouTube.',
-      tipo: 'Video',
+      tipo: 'Video YouTube',
       link: 'https://youtu.be/vkcZPQJB2F0',
     },
     {
       tema: 'Estudio de métodos',
       referencia:
         'Fundación General de la Universidad de La Laguna. (2017).<i> Módulo 15. Análisis de procesos #GestióndelaInnovación</i> [Video]. YouTube.',
-      tipo: 'Video',
+      tipo: 'Video YouTube',
       link: 'https://youtu.be/6U3tUgpu-YA',
     },
   ],
@@ -389,7 +403,7 @@ export default {
     {
       referencia:
         'Ararat A. (2010). <i>Estudio de métodos y tiempos en el proceso productivo de la línea de camisas interior de MAKILA CTA., para mejorar la productividad de la empresa</i>. [Trabajo de grado – Pregrado Santiago de Cali] Universidad Autónoma de Occidente. (Pág. 42)',
-      link: 'ttps://red.uao.edu.co/handle/10614/1175',
+      link: 'https://red.uao.edu.co/handle/10614/1175',
     },
     {
       referencia:
@@ -462,7 +476,7 @@ export default {
     },
     {
       referencia:
-        'Gutiérrez Rengifo, L., Moncayo Velazco, A., Tanaka, K., Kimura, F. y Moreno Brand, D. (2011).<i> Manual de patronaje básico e interpretación de diseños</i>. SENA, Agencia de Cooperación Internacional de Japón "jica"',
+        'Gutiérrez Rengifo, L., Moncayo Velazco, A., Tanaka, K., Kimura, F. y Moreno Brand, D. (2011).<i> Manual de patronaje básico e interpretación de diseños</i>. SENA, Agencia de Cooperación Internacional de Japón "JICA"',
       link:
         'https://repositorio.sena.edu.co/bitstream/handle/11404/4725/Manual_patronaje_basico_interpretacion_disenos.PDF;jsessionid=AC68AC0379BA94C6453554265BD5D717?sequence=1',
     },
@@ -485,7 +499,7 @@ export default {
     },
     {
       referencia:
-        'Mil dedales. (2015) <i>Patronaje básicos: sus inicio / Basic patterns: the beginning</i>. Retrieved 25 May 2021, from',
+        'Mil dedales. (2015) <i>Patronaje básicos: sus inicios / Basic patterns: the beginning</i>. Retrieved 25 May 2021, from',
       link:
         'http://mildedales.com/?p=453#:~:text=Si%20ahora%20buscamos%20su%20origen,persas%20(siglo%20V%20a.C.).&text=Ser%C3%A1%20durante%20la%20Edad%20Media,incuestionable%20la%20utilizaci%C3%B3n%20de%20patrones',
     },
@@ -507,7 +521,7 @@ export default {
     },
     {
       referencia:
-        'Ramos, D (2018). <i>Las siete herramientas estadísticas de calidad</i>. [Artículo de Qualiex- Blog de Calidad.',
+        'Ramos, D (2018). <i>Las siete herramientas estadísticas de calidad</i>. Artículo de Qualiex- Blog de Calidad.',
       link: 'https://blogdelacalidad.com/las-siete-herramientas-de-la-calidad/',
     },
     {
@@ -517,12 +531,11 @@ export default {
     {
       referencia:
         'Salazar, P, C; Del Castillo, G. S. (2018). <i>Fundamentos básicos de estadística</i>. Primera Edición',
-      link:
-        'http://www.dspace.uce.edu.ec/bitstream/25000/13720/3/Fundamentos%20B%C3%A1sicos%20de%20Estad%C3%ADstica-Libro.pdf',
+      link: 'https://pubhtml5.com/skfd/tkbj/basic/',
     },
     {
       referencia: 'Telemetrik (s.f.). <i>Todo por el agua y energía</i>.',
-      link: 'www.telemetrik.co',
+      link: 'https://www.telemetrik.co/',
     },
     {
       referencia:

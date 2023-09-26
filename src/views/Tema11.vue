@@ -11,7 +11,7 @@
       .col-lg-5.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/159.png', alt='')      
       .col-lg-7.my-3
-        p(data-aos="fade-down") En la industria textil uno de los principales vínculos con la información que se genera, tiene que ver con el control estadístico de producción y calidad; desde estos sistemas de gestión, se definen una serie de herramientas estadísticas, con el objetivo de mitigar la variabilidad en las características de calidad y logística de producción, clave para el producto, es decir aplicada en la fabricación, en el aseguramiento de la calidad, y en el mejoramiento de métodos.
+        p(data-aos="fade-down") En la industria textil, uno de los principales vínculos con la información que se genera, tiene que ver con el control estadístico de producción y calidad; desde estos sistemas de gestión, se definen una serie de herramientas estadísticas, con el objetivo de mitigar la variabilidad en las características de calidad y logística de producción, clave para el producto, es decir, aplicada en la fabricación, en el aseguramiento de la calidad, y en el mejoramiento de métodos.
 
         p(data-aos="fade-down") La estadística la podemos definir como #[fw-normal.bg16 “la ciencia que trata de la recopilación, organización, presentación, análisis e interpretación de datos numéricos con el fin de realizar una toma de decisión más efectiva.” Ruiz, D (2014).]
         p(data-aos="fade-down") Para realizar un mejor acercamiento del tema, realizaremos un recorrido por algunos términos básicos claves para su apropiación conceptual de la estadística:
@@ -25,7 +25,7 @@
 
           .tarjeta.color-primario.p-3(x="17%" y="90%" numero="+")
             .h5 Población  
-            p.mb-0 Conjunto de todos los individuos, elementos objetos o fenómenos que se requieren estudiar. 
+            p.mb-0 Conjunto de todos los individuos, elementos, objetos o fenómenos que se requieren estudiar. 
           .tarjeta.color-primario.p-3(x="45%" y="90%" numero="+")
             .h5 Muestra  
             p.mb-0 Es uno de los subconjuntos de datos pertenecientes a la población. Su tamaño corresponde a la cantidad de elementos u objetos que componen la muestra. 
@@ -37,7 +37,7 @@
             p Característica que fluctúan y varían generando diferentes valores, los cuales son observables y medibles. Los datos son el valor particular de la variable. Las variables pueden ser: 
             p #[b Cualitativas:] se expresan en palabras y no se pueden medir directamente, pero se llevan a valores numéricos utilizando escalas como herramienta. 
 
-            p.mb-0 #[b Cuantitativas:] se expresan numéricamente y se pueden medir directamente   
+            p.mb-0 #[b Cuantitativas:] se expresan numéricamente y se pueden medir directamente.   
 
       .col-lg-12.d-block.d-lg-none
         ImagenInfografica.color-acento-botones
@@ -47,7 +47,7 @@
 
           .tarjeta.color-primario.p-3(x="50%" y="20%" numero="+")
             .h5 Población  
-            p.mb-0 Conjunto de todos los individuos, elementos objetos o fenómenos que se requieren estudiar. 
+            p.mb-0 Conjunto de todos los individuos, elementos, objetos o fenómenos que se requieren estudiar. 
           .tarjeta.color-primario.p-3(x="50%" y="45%" numero="+")
             .h5 Muestra  
             p.mb-0 Es uno de los subconjuntos de datos pertenecientes a la población. Su tamaño corresponde a la cantidad de elementos u objetos que componen la muestra. 
@@ -59,7 +59,7 @@
             p Característica que fluctúan y varían generando diferentes valores, los cuales son observables y medibles. Los datos son el valor particular de la variable. Las variables pueden ser: 
             p #[b Cualitativas:] se expresan en palabras y no se pueden medir directamente, pero se llevan a valores numéricos utilizando escalas como herramienta. 
 
-            p.mb-0 #[b Cuantitativas:] se expresan numéricamente y se pueden medir directamente 
+            p.mb-0 #[b Cuantitativas:] se expresan numéricamente y se pueden medir directamente. 
 
     .row.justify-content-start.mb-4.pt-4    
       .col-auto.bg2.p-0.pe-4(data-aos="flip-down")
@@ -92,9 +92,18 @@
           .list__txt
             h4.mb-0 Herramientas de estadística
 
-    p(data-aos="fade-down") En una base estadística que podemos definir brevemente como el proceso de recolección, análisis e interpretación de una cantidad de datos, reposan la mayoría de las decisiones que se toman en función de la calidad en muchas organizaciones.
+    p(data-aos="fade-down").mb-4 En una base estadística que podemos definir brevemente como el proceso de recolección, análisis e interpretación de una cantidad de datos, reposan la mayoría de las decisiones que se toman en función de la calidad en muchas organizaciones.
 
-    h5.t1(data-aos="fade-down").mb-5 Para profundizar ingrese al Anexo Herramientas de estadística y conozca más sobre este tema. 
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-auto
+        .tarjeta.color-secundario.p-3
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/119.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0.ts
+                  p.ts.mb-0 Para profundizar ingrese al Anexo Herramientas de estadística y conozca más sobre este tema. 
 
     .row.justify-content-start.mb-4.pt-4    
       .col-auto.bg2.p-0.pe-4(data-aos="flip-down")

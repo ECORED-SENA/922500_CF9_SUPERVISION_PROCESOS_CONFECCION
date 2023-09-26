@@ -30,20 +30,16 @@
           .titulo-sexto.color-acento-contenido
               h5 Figura 5.
               span Pizarra electrónica para el control de producción.  
-          img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/46.png', alt='') 
+          img.img-a.img-t.mb-3(data-aos="zoom-in")(src='@/assets/curso/temas/46.png', alt='Imagen de una pizarra electrónica o tablero de eficiencias y reporte, hora a hora, de una determinada empresa o proyecto.') 
           figcaption Nota. Tomado de Internacional Systems
         .col-lg-4 
           p(data-aos="fade-down").pt-5 En la imagen anterior de la figura 5 se observa un tablero de eficiencias y reporte hora a hora, realizado por medio de una pantalla y un programa desarrollado en tiempos establecidos, informando al personal operativo las unidades proyectadas a salir, las unidades reales que la línea de trabajo produce, la eficiencia, el cual evalúa la meta vs las unidades reales.
     TabsA.color-acento-botones.mb-5
-      .tarjeta.color-acento-botones--borde.p-4(titulo="RF - Radio Frecuencia")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="RF - Radiofrecuencia")
         p Las ondas de #[b radiofrecuencia (RF)] generan una corriente alterna, que pasa a través de un conductor. Las ondas se caracterizan por sus frecuencias y longitudes.
 
         p Una de las aplicaciones está en los secadores del proceso de teñido o tintura de los hilos, donde esta máquina tiene una banda transportadora y en la mitad del proceso entran los hilos a una cámara de secado y esta funciona por ondas de radio frecuencia, tal como los hornos microondas donde calentamos alimentos; esta máquina por medio de ondas de radiofrecuencia genera altas temperaturas, secando la humedad generada por el proceso de teñido, cuidando que la fibra de hilo no pierda sus propiedades.
-        .row.justify-content-center.align-items-end.bg13          
-          .col-auto.pb-0
-            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')
-          .col
-            p.mb-0.p-4 Para profundizar observe el video “El funcionamiento de una máquina de secado por radio Frecuencia” que se encuentra en el material complementario.            
+         
       .tarjeta.color-acento-botones--borde.p-4(titulo="RFID - Identificación por<br> Radiofrecuencia")          
         p Es una tecnología de punta, utilizada para la completa identificación de objetos de cualquier tipo, que permite una rápida captura de datos de manera automática mediante radiofrecuencia.
 
@@ -54,7 +50,7 @@
           ul.lista-ul.mb-0.fa-ul(data-aos="fade-left")
             li 
               i.fas.fa-tshirt.c2
-              p.mb-0 Tecnología RFID en el sector textil. 
+              p.mb-0 Implantación con éxito con tecnología RFID en el sector textil.
             li.mb-0 
               i.fas.fa-tshirt.c2
               p.mb-0 Gestión de inventario con tecnología RFID.
@@ -83,7 +79,7 @@
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/50.svg', alt='La figura representa el esquema general del hardware, el cual incluye los siguientes elementos: en primer lugar, la visualización de datos; en segundo lugar, el monitoreo remoto; en tercer lugar, la emisión de alertas vía email y SMS; en cuarto lugar, un servidor en la nube; en quinto lugar, el seguimiento de activos; y finalmente, la activación de eventos.')         
           .col-lg-5(data-aos="fade-down")
             .p-5.pe-0
-              p Visualice el video Sistema de #[i hardware] y programación como tecnología en un proceso de producción y simulación brindando efectos de desarrollo eficiente y producto, que se encuentra en el material complementario.         
+              p Visualice el video #[i Software] Planificador de la Producción y detalle los beneficios prácticos de la tecnología en un proceso de producción eficiente; este video se encuentra en el material complementario.       
         figcaption.mt-3 Nota. Tomado de Telemetrik www.telemetrik.co
 
     h4.t1(data-aos="fade-down") Tableros digitales
@@ -171,7 +167,7 @@
               .row.justify-content-center.mt-3
                 .col-11
                   h4 Creately
-                  p Es una herramienta para crear diagramas de flujo con ayuda de plantillas, ofrece automatización mostrando diagramas más sofisticados en el proceso y sea mucho más rápido. Tiene diferentes formas, tipos de diagramas, atajos de barra de herramientas, temas y estilos que ayudan a diseñar buena información         
+                  p Es una herramienta para crear diagramas de flujo con ayuda de plantillas, ofrece automatización mostrando diagramas más sofisticados en el proceso y sea mucho más rápido. Tiene diferentes formas, tipos de diagramas, atajos de barra de herramientas, temas y estilos que ayudan a diseñar buena información.         
                   img.img-a.img-t(src='@/assets/curso/temas/60.png', alt='')     
               .row.justify-content-center.mt-3
                 .col-11
@@ -180,7 +176,7 @@
                   img.img-a.img-t(src='@/assets/curso/temas/61.png', alt='')       
               .row.justify-content-center.mt-3
                 .col-11
-                  h4 Diagrama de flujo Zen 
+                  h4 Diagrama de flujo Zen Flowchart 
                   p Este creador de diagrama de flujo es de código abierto y se caracteriza por su facilidad de uso, conecta fácilmente los nodos mediante conectores inteligentes. Su interfaz es limpia y minimalista y facilita guardar el resultado en archivos tipo PNG.         
                   img.img-a.img-t(src='@/assets/curso/temas/62.png', alt='')       
               .row.justify-content-center.mt-3
@@ -207,7 +203,7 @@
           .col-auto.pb-0
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')
           .col
-            p.mb-0.p-4 Ingrese al video Mejores programas para hacer planos en 3D, en el material complementario este explica varios de los #[i softwares] que se encuentran en el mercado para la simulación.       
+            p.mb-0.p-4 Consulte el video denominado Mejores 5 programas para hacer planos 3D, en el material complementario; este explica varios de los #[i software] para simulación, que se encuentran en el mercado.      
         p(data-aos="fade-down") A continuación, se mencionan los #[i software] más utilizados y desarrollados por diferentes industrias tecnológicas.
         .row.justify-content-center 
           .col-lg-4

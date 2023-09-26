@@ -39,7 +39,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 1.
           span Submúltiplos y múltiplos de longitud
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg', alt='')  
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg', alt='Gráfica que muestra los submúltiplos y múltiplos de longitud.')  
             
     .row.justify-content-center.align-items-center.mb-5           
       .col-auto 
@@ -51,7 +51,7 @@
     p(data-aos="fade-down") Si se quiere convertir doce (12) metros tanto a milímetros como a kilómetros, se realizan las siguientes operaciones: 
     .row.justify-content-center.mb-5           
       .col-lg-10.up(data-aos="fade-left")
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/5.svg', alt='') 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/5.svg', alt='Gráfica que muestra los submúltiplos y múltiplos de longitud.') 
       .col-lg-5.text-center.my-4.up
         .bg3.h-100.p-4(data-aos="fade-down")
           p Primero multiplicamos por 10 para hallar los decímetros.
@@ -79,7 +79,7 @@
 
           h5.mb-0 𝟎.𝟏𝟐 𝒉𝒎 ÷𝟏𝟎=𝟎,𝟎𝟏𝟐 𝒌𝒎
       .col-lg-10.up(data-aos="fade-left")
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6.svg', alt='')
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/6.svg', alt='Gráfica que muestra los submúltiplos y múltiplos de longitud.')
 
     .bg5
       h4(data-aos="fade-down").t1.pt-4 Sistema de medida para masa
@@ -90,13 +90,13 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
             span Submúltiplos y múltiplos de masa
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='')
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.svg', alt='Gráfica que muestra los submúltiplos y múltiplos de masa.')
 
       h5(data-aos="fade-down") Ejemplo
       p(data-aos="fade-down") Si se quiere convertir 100 gramos en miligramos y a la vez en kilogramos, se realiza las siguientes operaciones:
       .row.justify-content-center.pb-4           
         .col-lg-10(data-aos="fade-left")
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/9.svg', alt='') 
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/9.svg', alt='Gráfica que muestra los submúltiplos y múltiplos de masa.') 
         .col-lg-5.text-center.my-4
           .bg3.h-100.p-4(data-aos="fade-down")
             p Primero multiplicamos por 10 para hallar los decigramos. 
@@ -124,7 +124,7 @@
 
             h5.mb-0 𝟏 𝒉𝒈 ÷𝟏𝟎=𝟎,𝟏 𝒌𝒈
         .col-lg-10(data-aos="fade-left")
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/10.svg', alt='')
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/10.svg', alt='Gráfica que muestra los submúltiplos y múltiplos de masa.')
 
     .row.justify-content-center.align-items-center.my-5           
       .col-lg-7
@@ -258,7 +258,7 @@
 
         .col-lg-8
           .bgw.p-4 
-            SlyderE(indicadores="derecha")
+            SlyderA(tipo="b")
               .row.justify-content-center
                 .col-md-7.mb-4.mb-md-0
                   h4.t1 Balanza
