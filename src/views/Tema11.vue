@@ -104,7 +104,10 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0.ts
                   p.ts.mb-0 Para profundizar ingrese al Anexo Herramientas de estadística y conozca más sobre este tema. 
-
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Herramientas_De_Estadistica.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download  
     .row.justify-content-start.mb-4.pt-4    
       .col-auto.bg2.p-0.pe-4(data-aos="flip-down")
         .list.mb-1

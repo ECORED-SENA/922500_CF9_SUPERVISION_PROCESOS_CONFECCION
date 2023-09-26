@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(data-aos="zoom-in")(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(data-aos="zoom-in")(src="@/assets/curso/temas/sintesis.svg", alt="Imagen del esquema general de temáticas desarrolladas en este componente formativo.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

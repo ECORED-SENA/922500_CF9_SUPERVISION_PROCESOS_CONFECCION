@@ -47,7 +47,7 @@
             p.mb-0 De acuerdo con el mercado al que estamos enfocados y queremos atender: si es el mercado masivo, este se caracteriza por ser muy competitivo y con poca utilidad, o si son mercados exclusivos estos no tienen mucha competencia y la utilidad puede ser más amplia.         
         p(data-aos="fade-down") La fórmula para hallar el precio de venta es:
 
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/139.svg', alt='') 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/139.svg', alt='Precio de venta = Costo / (1 - % utilidad)') 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10              
@@ -56,11 +56,11 @@
           h5(data-aos="fade-down") Ejemplo:
 
           p(data-aos="fade-down") El costo de todos los recursos y actividades para producir un #[i jean] es $25.000 y la utilidad deseada es del 30%, ¿cuál es el precio de venta? Reemplazamos los valores en la fórmula:
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/142.svg', alt='')       
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/142.svg', alt='Precio de venta = 25.000 / (1 – 0,30)')       
           p(data-aos="fade-down").my-4.text-center Resolvemos el denominador
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/141.svg', alt='')       
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/141.svg', alt='25000 / (0,70)')       
           p(data-aos="fade-down").my-4.text-center Realizamos la división 
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/140.svg', alt='')       
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/140.svg', alt='Precio de venta = 35714')       
           p(data-aos="fade-down").text-center.mt-4 Así hallamos que el precio de venta es del #[i jean] es de $ 35,714
 
 
@@ -81,7 +81,7 @@
           .row.justify-content-center.align-items-center           
             .col.mb-0.order-1.my-2(data-aos="fade-down") Para hallar el punto de equilibrio (PE) se elabora una lista de los gastos de un determinado período, se suman y se dividen entre el porcentaje de utilidad que se ha asignado.
             .col-lg-auto.order-lg-2.my-2
-              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/144.svg', alt='')    
+              img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/144.svg', alt='Punto de equilibrio = gastos mensuales / % de utilidad')    
 
     .row.justify-content-center.align-items-center       
       .col-lg-10              
@@ -92,16 +92,16 @@
           p(data-aos="fade-down") En una compañía los gastos mensuales suman $24´000.000, y se trabaja con el 30% de utilidad. El precio de venta de cada unidad es de $ 12.800. Para que haya punto de equilibrio ¿cuánto se debe facturar cada mes, cada día, y cuántas unidades se deben vender diariamente? Tenga en cuenta que el establecimiento abre 25 días al mes y los festivos no trabaja.
 
           p(data-aos="fade-down") Primero se calcula el punto de equilibrio:
-          img.img-a.img-t.my-4(data-aos="zoom-in")(src='@/assets/curso/temas/155.svg', alt='')    
+          img.img-a.img-t.my-4(data-aos="zoom-in")(src='@/assets/curso/temas/155.svg', alt='Punto de equilibrio = 24000000 / 0,30 = 80000000')    
           p(data-aos="fade-down") Mensualmente debe vender $80.000.000 
 
           p(data-aos="fade-down") Luego, las ventas mensuales se dividen entre 25 días que se abre y el resultado son las ventas que se deben hacer diarias en promedio para que haya punto de equilibrio:
-          img.img-a.img-t.my-4(data-aos="zoom-in")(src='@/assets/curso/temas/156.svg', alt='')    
+          img.img-a.img-t.my-4(data-aos="zoom-in")(src='@/assets/curso/temas/156.svg', alt='80000000 / 25 = 3200000')    
           p(data-aos="fade-down") Estas ventas diarias se dividen entre el precio unitario que es $12.800, y el resultado es el número de unidades que se deben vender.                  
-          img.img-a.img-t.my-4(data-aos="zoom-in")(src='@/assets/curso/temas/157.svg', alt='')    
+          img.img-a.img-t.my-4(data-aos="zoom-in")(src='@/assets/curso/temas/157.svg', alt='3200000 / 12800 (valor de la unidad) = 250 unidades')    
 
           p(data-aos="fade-down") Para hacer la prueba o verificación, sobre el valor de las ventas mensuales, se calcula el 30% de la utilidad y dará el valor de los gastos, o sea ni gana, ni pierde.
-          img.img-a.img-t.my-4(data-aos="zoom-in")(src='@/assets/curso/temas/158.svg', alt='')    
+          img.img-a.img-t.my-4(data-aos="zoom-in")(src='@/assets/curso/temas/158.svg', alt='80000000 por 30% = 24000000')    
           p(data-aos="fade-down") El 30% es igual a $24´000.000 o sea que el valor cubre los gastos, y la diferencia $56´000.000, es para pagar proveedores de los costos de producción. 
 
           p(data-aos="fade-down") #[b Resumen:] se suman los gastos necesarios para operar, y se dividen entre el porcentaje de utilidad o sea la relación que hay entre costo de producción y precio de venta.              

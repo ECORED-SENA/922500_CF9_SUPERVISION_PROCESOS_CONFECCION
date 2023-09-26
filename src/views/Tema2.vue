@@ -65,7 +65,7 @@
             p Lo realmente importante es que el flujo de producción sea equilibrado, hay que focalizarse más en el flujo que en las capacidades productivas individuales de los puestos de trabajo, como se observa en la figura que representa el cuello de botella, durante el balanceo de líneas o módulos, según el sistema de producción empleado. 
           .col-md-5
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/34.png', alt='')
-      .py-3.py-md-4(titulo="Evitar “sobreStock”")
+      .py-3.py-md-4(titulo="Evitar <i>sobreStock</i>")
         .row.justify-content-center.pt-3
           .col-md-6.mb-4.mb-md-0
             p La producción de un puesto sin cuello de botella debe estar supeditada a la del cuello de botella de su línea. Una sobreproducción por cuellos de botella genera #[i stocks] (inventarios) innecesarios, paralizando el flujo de trabajo, generando problemáticas hasta por defectos de calidad sin identificar. 

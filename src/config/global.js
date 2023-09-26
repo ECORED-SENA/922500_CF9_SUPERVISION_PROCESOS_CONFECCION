@@ -245,13 +245,6 @@ export default {
     {
       tema: 'Hardware para visualizar y controlar',
       referencia:
-        'QFB Farma. (2019). <i>Indicadores de Producción</i>. [Video] YouTube',
-      tipo: 'Video YouTube',
-      link: 'https://www.youtube.com/watch?v=B-aye88Fkvc',
-    },
-    {
-      tema: 'Hardware para visualizar y controlar',
-      referencia:
         'Lojan, E. (2019). <i>SISTEMA ANDON (ANDON SYSTEM)</i>.  [Video] YouTube.',
       tipo: 'Video YouTube',
       link: 'https://www.youtube.com/watch?v=HXqQv3gHaA4',

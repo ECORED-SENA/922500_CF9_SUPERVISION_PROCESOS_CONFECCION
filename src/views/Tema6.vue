@@ -485,7 +485,11 @@
                 td
                   | Hace referencia a varias actividades que se ejecutan al mismo tiempo o por el mismo operario.
         figcaption.mt-3 Nota. Adaptado de OIT. (1996) Introducción al estudio del trabajo.
-    p(data-aos="fade-down").mb-5 Para entender el proceso de registro de información para desarrollar la propuesta de mejora, lo invitamos a ver el video “Análisis de procesos”, el cual se encuentra en el material complementario.
+        .row.justify-content-center.align-items-end.mt-5.bg13          
+          .col-auto.pb-0
+            img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')
+          .col
+            p.mb-0.p-4 Para entender el proceso de registro de información para desarrollar la propuesta de mejora, lo invitamos a ver el video “Análisis de procesos”, el cual se encuentra en el material complementario.
     h4(data-aos="fade-down").t1.mb-4 Examinar de forma crítica el trabajo
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-6

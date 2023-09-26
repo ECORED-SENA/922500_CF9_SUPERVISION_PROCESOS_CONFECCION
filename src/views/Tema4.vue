@@ -38,7 +38,7 @@
       .tarjeta.color-acento-botones--borde.p-4(titulo="RF - Radiofrecuencia")
         p Las ondas de #[b radiofrecuencia (RF)] generan una corriente alterna, que pasa a través de un conductor. Las ondas se caracterizan por sus frecuencias y longitudes.
 
-        p Una de las aplicaciones está en los secadores del proceso de teñido o tintura de los hilos, donde esta máquina tiene una banda transportadora y en la mitad del proceso entran los hilos a una cámara de secado y esta funciona por ondas de radio frecuencia, tal como los hornos microondas donde calentamos alimentos; esta máquina por medio de ondas de radiofrecuencia genera altas temperaturas, secando la humedad generada por el proceso de teñido, cuidando que la fibra de hilo no pierda sus propiedades.
+        p Una de las aplicaciones está en los secadores del proceso de teñido o tintura de los hilos, donde esta máquina tiene una banda transportadora y en la mitad del proceso entran los hilos a una cámara de secado y esta funciona por ondas de radiofrecuencia, tal como los hornos microondas donde calentamos alimentos; esta máquina por medio de ondas de radiofrecuencia genera altas temperaturas, secando la humedad generada por el proceso de teñido, cuidando que la fibra de hilo no pierda sus propiedades.
          
       .tarjeta.color-acento-botones--borde.p-4(titulo="RFID - Identificación por<br> Radiofrecuencia")          
         p Es una tecnología de punta, utilizada para la completa identificación de objetos de cualquier tipo, que permite una rápida captura de datos de manera automática mediante radiofrecuencia.
@@ -91,7 +91,7 @@
           .col-auto.pb-0
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/48.png', alt='')
           .col
-            p.mb-0.p-4 En el video la importancia de los indicadores de producción en una organización, podrá profundizar en el tema, lo encontrará en el material complementario.  
+            p.mb-0.p-4 Inspeccionando el video denominado Indicadores de producción, podrá profundizar en el tema; lo encontrará en el material complementario. 
       .col-lg-6
         img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/51.png')         
 
