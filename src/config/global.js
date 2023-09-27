@@ -257,6 +257,13 @@ export default {
       link: 'https://www.youtube.com/watch?v=du00u40ZUr0',
     },
     {
+      tema: 'Hardware para visualizar y controlar',
+      referencia:
+        'QFB Farma. (2019). Indicadores de producción [Vídeo]. YouTube.',
+      tipo: 'Video YouTube',
+      link: 'https://www.youtube.com/watch?v=B-aye88Fkvc',
+    },
+    {
       tema: 'Software para diseño, simulación y optimización de plantas.',
       referencia:
         'Deimos kress (2018) <i>Mejores 5 programas para hacer planos 3d</i> [Video] YouTube',
